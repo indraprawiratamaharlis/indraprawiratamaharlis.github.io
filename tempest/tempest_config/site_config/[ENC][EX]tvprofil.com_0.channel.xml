@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvprofil.com_0">
+  <channels>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-1-premium-bih" xmltv_id="Arena Sport 1 Premium BiH">Arena Sport 1 Premium BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-2-premium-bih" xmltv_id="Arena Sport 2 Premium BiH">Arena Sport 2 Premium BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-3-premium-bih" xmltv_id="Arena Sport 3 Premium BiH">Arena Sport 3 Premium BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-1-ba" xmltv_id="Arena Sport 1 BiH">Arena Sport 1 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-2-bih" xmltv_id="Arena Sport 2 BiH">Arena Sport 2 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-3-bih" xmltv_id="Arena Sport 3 BiH">Arena Sport 3 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-4-bih" xmltv_id="Arena Sport 4 BiH">Arena Sport 4 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-5-bih" xmltv_id="Arena Sport 5 BiH">Arena Sport 5 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-6-bih" xmltv_id="Arena Sport 6 BiH">Arena Sport 6 BiH</channel>
+    <channel site="[ENC][EX]tvprofil.com_0" site_id="ba/tvprogram|##|arena-sport-1x2" xmltv_id="Arena Sport 1x2">Arena Sport 1x2</channel>
+  </channels>
+</site>
