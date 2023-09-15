@@ -11,8 +11,8 @@ on:
   pull_request_target:
     branches: 'main'
     types: [closed]
-#  schedule:
-#  - cron: '0 17 * * *'
+  schedule:
+  - cron: '0 17 * * *'
 
 jobs:
   grab:
@@ -36,18 +36,10 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y php
         shell: bash
 
-      - name: Grab firstmedia.com
-        id: firstmedia_com
-        run: |
-          php ./tempest.php engine=Generate siteconfig=[ENC]firstmedia.com_0 tempconfig=firstmedia.com.config.xml
-          cp -f firstmedia.com.xml ./guide/firstmedia.com.xml
-        shell: bash
-
-      - name: Grab tvprofil.com
+      - name: Grab tempest
         id: tempest
         run: |
-          php ./tempest.php engine=Generate siteconfig=[ENC][EX]tvprofil.com_0 tempconfig=tvprofil.com.config.xml
-          cp -f tvprofil.com.xml ./guide/tvprofil.com.xml
+          php ./tempest.php engine=Generate tempconfig=tempest.config.xml
         shell: bash
 
       - name: Outcome
@@ -63,8 +55,7 @@ jobs:
           git config --global user.email ${{ secrets.EMAIL }}
           git config --global user.name ${{ secrets.NAME }}
           git pull
-          git add ./guide/firstmedia.com.xml
-          git add ./guide/tvprofil.com.xml
+          git add ./guide.xml
           git commit -m "tempest - ${{ steps.tempest.outcome }}"
           git push
           
