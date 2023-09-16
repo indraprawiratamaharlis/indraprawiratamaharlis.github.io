@@ -22,7 +22,7 @@
     <channel site="[ENC]firstmedia.com_0" site_id="25" xmltv_id="ID2 - Liga Mahasiswa">ID2 - Liga Mahasiswa</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="26" xmltv_id="ID2 - O Channel">ID2 - O Channel</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="27" xmltv_id="ID2 - DAAI TV">ID2 - DAAI TV</channel>
-    <channel site="[ENC]firstmedia.com_0" site_id="29" xmltv_id="ID2 - Eternal Word Television Network (EWTN))">ID2 - Eternal Word Television Network (EWTN))</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="29" xmltv_id="ID2 - Eternal Word Television Network (EWTN)">ID2 - Eternal Word Television Network (EWTN)</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="30" xmltv_id="ID2 - Karaoke">ID2 - Karaoke</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="33" xmltv_id="ID2 - Balai Kota Channel">ID2 - Balai Kota Channel</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="34" xmltv_id="ID2 - Balai Kota Bandung">ID2 - Balai Kota Bandung</channel>
@@ -80,7 +80,6 @@
     <channel site="[ENC]firstmedia.com_0" site_id="210" xmltv_id="ID2 - CGTN">ID2 - CGTN</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="211" xmltv_id="ID2 - TVBS Asia">ID2 - TVBS Asia</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="212" xmltv_id="ID2 - TVBS News">ID2 - TVBS News</channel>
-    <channel site="[ENC]firstmedia.com_0" site_id="218" xmltv_id="ID2 - Shenzen TV">ID2 - Shenzen TV</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="220" xmltv_id="ID2 - MTV Asia">ID2 - MTV Asia</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="232" xmltv_id="ID2 - DW Deutsch">ID2 - DW Deutsch</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="233" xmltv_id="ID2 - DW English">ID2 - DW English</channel>
@@ -125,5 +124,23 @@
     <channel site="[ENC]firstmedia.com_0" site_id="324" xmltv_id="ID2 - HITS NOW HD">ID2 - HITS NOW HD</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="325" xmltv_id="ID2 - HITS MOVIES HD">ID2 - HITS MOVIES HD</channel>
     <channel site="[ENC]firstmedia.com_0" site_id="326" xmltv_id="ID2 - HITS HD">ID2 - HITS HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="900" xmltv_id="ID2 - First Highlights HD">ID2 - First Highlights HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="337" xmltv_id="ID2 - Cinema World HD">ID2 - Cinema World HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="376" xmltv_id="ID2 - Citra Biskop HD">ID2 - Citra Biskop HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="378" xmltv_id="ID2 - CItra Drama HD">ID2 - CItra Drama HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="379" xmltv_id="ID2 - Citra Entertainment HD">ID2 - Citra Entertainment HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="354" xmltv_id="ID2 - HGTV HD">ID2 - HGTV HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="371" xmltv_id="ID2 - Da Vinci HD">ID2 - Da Vinci HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="375" xmltv_id="ID2 - Horee! HD">ID2 - Horee! HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="377" xmltv_id="ID2 - Citra Dangdut HD">ID2 - Citra Dangdut HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="334" xmltv_id="ID2 - Stingray Djazz HD">ID2 - Stingray Djazz HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="344" xmltv_id="ID2 - Stingray Festival HD">ID2 - Stingray Festival HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="345" xmltv_id="ID2 - Stingray Now HD">ID2 - Stingray Now HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="410" xmltv_id="ID2 - Citra Muslim HD">ID2 - Citra Muslim HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="364" xmltv_id="ID2 - Discovery Asia HD">ID2 - Discovery Asia HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="368" xmltv_id="ID2 - Love Nature HD">ID2 - Love Nature HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="367" xmltv_id="ID2 - Stingray Naturescape HD">ID2 - Stingray Naturescape HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="347" xmltv_id="ID2 - DMAX HD">ID2 - DMAX HD</channel>
+    <channel site="[ENC]firstmedia.com_0" site_id="999" xmltv_id="ID2 - First Warriors HD">ID2 - First Warriors HD</channel>
   </channels>
 </site>
