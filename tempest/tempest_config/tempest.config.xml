@@ -12,7 +12,7 @@
   <fusion>off</fusion>
   <fusion-level/>
   <time-converter/>
-  <delay channel="" index="" detail=""/>
+  <delay channel="0" index="0" detail="0"/>
   <channel-lister>on</channel-lister>
   <inverter>off</inverter>
   <inverter-filename/>
@@ -266,19 +266,19 @@
   <channel site="[ENC]firstmedia.com_0" site_id="324" xmltv_id="ID2 - HITS NOW HD">ID2 - HITS NOW HD</channel>
   <channel site="[ENC]firstmedia.com_0" site_id="325" xmltv_id="ID2 - HITS MOVIES HD">ID2 - HITS MOVIES HD</channel>
   <channel site="[ENC]firstmedia.com_0" site_id="326" xmltv_id="ID2 - HITS HD">ID2 - HITS HD</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-1-premium-bih" xmltv_id="BA - Arena Sport 1 Premium">BA - Arena Sport 1 Premium</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-2-premium-bih" xmltv_id="BA - Arena Sport 2 Premium">BA - Arena Sport 2 Premium</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-3-premium-bih" xmltv_id="BA - Arena Sport 3 Premium">BA - Arena Sport 3 Premium</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-1x2" xmltv_id="BA - Arena Sport 1x2">BA - Arena Sport 1x2</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-1-ba" xmltv_id="BA - Arena Sport 1">BA - Arena Sport 1</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-2-bih" xmltv_id="BA - Arena Sport 2">BA - Arena Sport 2</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-3-bih" xmltv_id="BA - Arena Sport 3">BA - Arena Sport 3</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-4-bih" xmltv_id="BA - Arena Sport 4">BA - Arena Sport 4</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-5-bih" xmltv_id="BA - Arena Sport 5">BA - Arena Sport 5</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|arena-sport-6-bih" xmltv_id="BA - Arena Sport 6">BA - Arena Sport 6</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|prima-sport-1-ro" xmltv_id="RO - Prima Sport 1">RO - Prima Sport 1</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|prima-sport-2-ro" xmltv_id="RO - Prima Sport 2">RO - Prima Sport 2</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|prima-sport-3-ro" xmltv_id="RO - Prima Sport 3">RO - Prima Sport 3</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|prima-sport-4-ro" xmltv_id="RO - Prima Sport 4">RO - Prima Sport 4</channel>
-  <channel site="[ENC][EX]tvprofil.com_0" site_id="gb/tvprogram|##|prima-sport-5-ro" xmltv_id="RO - Prima Sport 5">RO - Prima Sport 5</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-1-premium-bih" xmltv_id="BA - Arena Sport 1 Premium">BA - Arena Sport 1 Premium</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-2-premium-bih" xmltv_id="BA - Arena Sport 2 Premium">BA - Arena Sport 2 Premium</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-3-premium-bih" xmltv_id="BA - Arena Sport 3 Premium">BA - Arena Sport 3 Premium</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-1x2" xmltv_id="BA - Arena Sport 1x2">BA - Arena Sport 1x2</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-1-ba" xmltv_id="BA - Arena Sport 1">BA - Arena Sport 1</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-2-bih" xmltv_id="BA - Arena Sport 2">BA - Arena Sport 2</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-3-bih" xmltv_id="BA - Arena Sport 3">BA - Arena Sport 3</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-4-bih" xmltv_id="BA - Arena Sport 4">BA - Arena Sport 4</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-5-bih" xmltv_id="BA - Arena Sport 5">BA - Arena Sport 5</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|arena-sport-6-bih" xmltv_id="BA - Arena Sport 6">BA - Arena Sport 6</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|prima-sport-1-ro" xmltv_id="RO - Prima Sport 1">RO - Prima Sport 1</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|prima-sport-2-ro" xmltv_id="RO - Prima Sport 2">RO - Prima Sport 2</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|prima-sport-3-ro" xmltv_id="RO - Prima Sport 3">RO - Prima Sport 3</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|prima-sport-4-ro" xmltv_id="RO - Prima Sport 4">RO - Prima Sport 4</channel>
+  <channel site="[ENC][EX]tvprofil.com_0" site_id="tvprogram|##|prima-sport-5-ro" xmltv_id="RO - Prima Sport 5">RO - Prima Sport 5</channel>
 </configuration>
