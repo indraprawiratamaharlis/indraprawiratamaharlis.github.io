@@ -1,101 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="mncvision.id">
   <channels>
-    <channel lang="en" xmltv_id="ID ABCAustralia.au" site_id="350">ABC Australia</channel>
-    <channel lang="en" xmltv_id="ID AlJazeeraEnglish.qa" site_id="331">Aljazeera</channel>
-    <channel lang="en" xmltv_id="ID AlQuranKareem.id" site_id="93">Al Quran Al Kareem</channel>
-    <channel lang="en" xmltv_id="ID AnimaxAsia.sg" site_id="157">Animax</channel>
-    <channel lang="en" xmltv_id="ID ANTV.id" site_id="115">ANTV</channel>
-    <channel lang="en" xmltv_id="ID ArirangWorld.kr" site_id="351">Arirang</channel>
-    <channel lang="en" xmltv_id="ID AXNIndonesia.id" site_id="154">AXN</channel>
-    <channel lang="en" xmltv_id="ID BabyTV.uk" site_id="40">Baby TV</channel>
-    <channel lang="en" xmltv_id="ID BBCEarthAsia.uk" site_id="200">BBC Earth</channel>
-    <channel lang="en" xmltv_id="ID BBCWorldNewsAsiaPacific.uk" site_id="332">BBC World News</channel>
-    <channel lang="en" xmltv_id="ID BTV.id" site_id="103">BTV</channel>
-    <channel lang="en" xmltv_id="ID BloombergTVAsia.hk" site_id="338">Bloomberg TV</channel>
-    <channel lang="en" xmltv_id="ID CBeebiesAsia.uk" site_id="41">CBeebies</channel>
-    <channel lang="en" xmltv_id="ID CCM.hk" site_id="22">Celestial Classic Movies</channel>
-    <channel lang="en" xmltv_id="ID Celebrities.id" site_id="96">Celebrities Tv</channel>
-    <channel lang="en" xmltv_id="ID CelestialMoviesIndonesia.id" site_id="20">Celestial Movies</channel>
-    <channel lang="en" xmltv_id="ID CGTN.cn" site_id="353">CGTN</channel>
-    <channel lang="en" xmltv_id="ID CGTNDocumentary.cn" site_id="205">CGTN Documentary</channel>
-    <channel lang="en" xmltv_id="ID CNAInternational.sg" site_id="330">CNA</channel>
-    <channel lang="en" xmltv_id="ID Cinemachi.uk" site_id="7">Cinemachi</channel>
-    <channel lang="en" xmltv_id="ID CinemachiAction.uk" site_id="8">Cinemachi Action</channel>
-    <channel lang="en" xmltv_id="ID CinemachiKids.uk" site_id="9">Cinemachi Kids</channel>
-    <channel lang="en" xmltv_id="ID CinemachiMax.uk" site_id="10">Cinemachi Max</channel>
-    <channel lang="en" xmltv_id="ID CinemachiXtra.uk" site_id="6">Cinemachi Xtra</channel>
-    <channel lang="en" xmltv_id="ID CNBCAsia.sg" site_id="337">CNBC</channel>
-    <channel lang="en" xmltv_id="ID CrimePlusInvestigationAsia.sg" site_id="207">Crime + Investigation</channel>
-    <channel lang="en" xmltv_id="ID DreamWorksChannelAsia.us" site_id="47">Dreamworks</channel>
-    <channel lang="en" xmltv_id="ID DWEnglish.de" site_id="357">DW English</channel>
-    <channel lang="en" xmltv_id="ID Entertainment.id" site_id="86">Entertainment</channel>
-    <channel lang="en" xmltv_id="ID EuroNews.fr" site_id="333">Euronews</channel>
-    <channel lang="en" xmltv_id="ID FightSports.us" site_id="304">Fight Sports</channel>
-    <channel lang="en" xmltv_id="ID FMN.id" site_id="150">FMN</channel>
-    <channel lang="en" xmltv_id="ID FoxNewsChannel.us" site_id="335">Fox News Channel</channel>
-    <channel lang="en" xmltv_id="ID France24English.fr" site_id="352">France 24</channel>
-    <channel lang="en" xmltv_id="ID Galaxy.id" site_id="13">Galaxy</channel>
-    <channel lang="en" xmltv_id="ID GalaxyPremium.id" site_id="12">Galaxy Premium</channel>
-    <channel lang="en" xmltv_id="ID GlobalTrekker.sg" site_id="201">Global Trekker</channel>
-    <channel lang="en" xmltv_id="ID GTV.id" site_id="81">GTV</channel>
-    <channel lang="en" xmltv_id="ID HistoryAsia.us" site_id="206">History</channel>
-    <channel lang="en" xmltv_id="ID HITS.sg" site_id="160">Hits</channel>
-    <channel lang="en" xmltv_id="ID HITSMovies.sg" site_id="11">Hits Movies</channel>
-    <channel lang="en" xmltv_id="ID IDXChannel.id" site_id="100">IDX Channel</channel>
-    <channel lang="en" xmltv_id="ID IMC.id" site_id="14">IMC</channel>
-    <channel lang="en" xmltv_id="ID Indosiar.id" site_id="78">Indosiar</channel>
-    <channel lang="en" xmltv_id="ID INews.id" site_id="83">INews</channel>
-    <channel lang="en" xmltv_id="ID JakTV.id" site_id="113">Jak TV</channel>
-    <channel lang="en" xmltv_id="ID KidsTV.id" site_id="46">Kids TV</channel>
-    <channel lang="en" xmltv_id="ID KIX.hk" site_id="161">Kix</channel>
-    <channel lang="en" xmltv_id="ID KompasTV.id" site_id="106">Kompas TV</channel>
-    <channel lang="en" xmltv_id="ID Life.id" site_id="91">Life</channel>
-    <channel lang="en" xmltv_id="ID LifetimeAsia.us" site_id="167">Lifetime</channel>
-    <channel lang="en" xmltv_id="ID MetroTV.id" site_id="107">Metro TV</channel>
-    <channel lang="en" xmltv_id="ID MNCTV.id" site_id="82">MNC TV</channel>
-    <channel lang="en" xmltv_id="ID MTV90s.uk" site_id="149">MTV 90's</channel>
-    <channel lang="en" xmltv_id="ID MTVLive.uk" site_id="148">MTV LIVE</channel>
-    <channel lang="en" xmltv_id="ID MusicTV.id" site_id="111">Music TV</channel>
-    <channel lang="en" xmltv_id="ID MuslimTV.id" site_id="92">Muslim TV</channel>
-    <channel lang="en" xmltv_id="ID MyCinema.id" site_id="16">My Cinema</channel>
-    <channel lang="en" xmltv_id="ID MyCinemaAsia.id" site_id="17">My Cinema Asia</channel>
-    <channel lang="en" xmltv_id="ID MyFamily.id" site_id="15">My Family</channel>
-    <channel lang="en" xmltv_id="ID MyKidz.id" site_id="50">My Kidz</channel>
-    <channel lang="en" xmltv_id="ID NationalGeographicIndonesia.id" site_id="202">National Geographic</channel>
-    <channel lang="en" xmltv_id="ID NationalGeographicWildIndonesia.id" site_id="204">National Geographic Wild</channel>
-    <channel lang="en" xmltv_id="ID NET.id" site_id="116">NET</channel>
-    <channel lang="en" xmltv_id="ID NHKWorldJapan.jp" site_id="355">NHK World</channel>
-    <channel lang="en" xmltv_id="ID NHKWorldPremium.jp" site_id="354">NHK World Premium</channel>
-    <channel lang="en" xmltv_id="ID NickelodeonAsia.sg" site_id="49">Nickelodeon</channel>
-    <channel lang="en" xmltv_id="ID NickJrAsia.sg" site_id="37">Nick Jr</channel>    
-    <channel lang="en" xmltv_id="ID OKTV.id" site_id="95">OK TV</channel>
-    <channel lang="en" xmltv_id="ID Okezone.id" site_id="90">Okezone TV</channel>
-    <channel lang="en" xmltv_id="ID OneTVAsia.sg" site_id="164">One</channel>
-    <channel lang="en" xmltv_id="ID ParamountNetworkIndonesia.id" site_id="163">Paramount Network</channel>
-    <channel lang="en" xmltv_id="ID RCTI.id" site_id="80">RCTI</channel>
-    <channel lang="en" xmltv_id="ID ROCKAction.sg" site_id="248">Rock Action</channel>
-    <channel lang="en" xmltv_id="ID ROCKEntertainment.sg" site_id="240">Rock Entertainment</channel>
-    <channel lang="en" xmltv_id="ID SCTV.id" site_id="89">SCTV</channel>
-    <channel lang="en" xmltv_id="ID SEAToday.id" site_id="336">SEA Today</channel>
-    <channel lang="en" xmltv_id="ID SindoNews.id" site_id="84">Sindo News TV</channel>
-    <channel lang="en" xmltv_id="ID SoccerChannel.id" site_id="101">Soccer Channel</channel>
-    <channel lang="en" xmltv_id="ID Sportstarts.id" site_id="102">Sportstarts</channel>
-    <channel lang="en" xmltv_id="ID Sportstarts2.id" site_id="98">Sportstarts 2</channel>
-    <channel lang="en" xmltv_id="ID Sportstarts3.id" site_id="99">Sportstarts 3</channel>
-    <channel lang="en" xmltv_id="ID Sportstarts4.id" site_id="88">Sportstarts 4</channel>
-    <channel lang="en" xmltv_id="ID SPOTV.kr" site_id="307">SPOTV</channel>
-    <channel lang="en" xmltv_id="ID SPOTV2.kr" site_id="308">SPOTV 2</channel>
-    <channel lang="en" xmltv_id="ID TawafTV.id" site_id="105">Tawaf TV</channel>
-    <channel lang="en" xmltv_id="ID Thrill.hk" site_id="19">Thrill</channel>
-    <channel lang="en" xmltv_id="ID Trans7.id" site_id="110">Trans 7</channel>
-    <channel lang="en" xmltv_id="ID TransTV.id" site_id="87">Trans TV</channel>
-    <channel lang="en" xmltv_id="ID tvNAsia.hk" site_id="158">tvN</channel>
-    <channel lang="en" xmltv_id="ID tvNMoviesAsia.hk" site_id="25">tvN Movies</channel>
-    <channel lang="en" xmltv_id="ID tvOne.id" site_id="97">TVOne</channel>
-    <channel lang="en" xmltv_id="ID TVRINasional.id" site_id="118">TVRI Nasional</channel>
-    <channel lang="en" xmltv_id="ID VisionPrime.id" site_id="94">Vision Prime</channel>
-    <channel lang="en" xmltv_id="ID ZeeBioskop.id" site_id="23">Zee Bioskop</channel>
-    <channel lang="en" xmltv_id="ID ZooMoo.sg" site_id="39">Zoomoo</channel>
+    <channel lang="en" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
+    <channel lang="en" site_id="331" xmltv_id="ID - Al Jazeera English">ID - Al Jazeera English</channel>
+    <channel lang="en" site_id="93" xmltv_id="ID - Al Quran Al Kareem">ID - Al Quran Al Kareem</channel>
+    <channel lang="en" site_id="157" xmltv_id="ID - Animax">ID - Animax</channel>
+    <channel lang="en" site_id="115" xmltv_id="ID - ANTV">ID - ANTV</channel>
+    <channel lang="en" site_id="351" xmltv_id="ID - Arirang">ID - Arirang</channel>
+    <channel lang="en" site_id="154" xmltv_id="ID - AXN">ID - AXN</channel>
+    <channel lang="en" site_id="40" xmltv_id="ID - BabyTV">ID - BabyTV</channel>
+    <channel lang="en" site_id="200" xmltv_id="ID - BBC Earth">ID - BBC Earth</channel>
+    <channel lang="en" site_id="332" xmltv_id="ID - BBC World News">ID - BBC World News</channel>
+    <channel lang="en" site_id="103" xmltv_id="ID - Berita Satu">ID - Berita Satu</channel>
+    <channel lang="en" site_id="338" xmltv_id="ID - Bloomberg">ID - Bloomberg</channel>
+    <channel lang="en" site_id="41" xmltv_id="ID - CBeebies">ID - CBeebies</channel>
+    <channel lang="en" site_id="22" xmltv_id="ID - CCM">ID - CCM</channel>
+    <channel lang="en" site_id="96" xmltv_id="ID - Celebrities TV">ID - Celebrities TV</channel>
+    <channel lang="en" site_id="20" xmltv_id="ID - Celestial Movies">ID - Celestial Movies</channel>
+    <channel lang="en" site_id="353" xmltv_id="ID - CGTN">ID - CGTN</channel>
+    <channel lang="en" site_id="205" xmltv_id="ID - CGTN Documentary">ID - CGTN Documentary</channel>
+    <channel lang="en" site_id="330" xmltv_id="ID - Channel News Asia">ID - Channel News Asia</channel>
+    <channel lang="en" site_id="7" xmltv_id="ID - CINEMACHI">ID - CINEMACHI</channel>
+    <channel lang="en" site_id="8" xmltv_id="ID - CINEMACHI ACTION">ID - CINEMACHI ACTION</channel>
+    <channel lang="en" site_id="9" xmltv_id="ID - CINEMACHI KIDS">ID - CINEMACHI KIDS</channel>
+    <channel lang="en" site_id="10" xmltv_id="ID - CINEMACHI MAX">ID - CINEMACHI MAX</channel>
+    <channel lang="en" site_id="6" xmltv_id="ID - CINEMACHI XTRA">ID - CINEMACHI XTRA</channel>
+    <channel lang="en" site_id="337" xmltv_id="ID - CNBC">ID - CNBC</channel>
+    <channel lang="en" site_id="207" xmltv_id="ID - Crime Investigation">ID - Crime Investigation</channel>
+    <channel lang="en" site_id="47" xmltv_id="ID - Dreamworks">ID - Dreamworks</channel>
+    <channel lang="en" site_id="357" xmltv_id="ID - DW English">ID - DW English</channel>
+    <channel lang="en" site_id="86" xmltv_id="ID - Entertainment">ID - Entertainment</channel>
+    <channel lang="en" site_id="304" xmltv_id="ID - Fight Sports">ID - Fight Sports</channel>
+    <channel lang="en" site_id="150" xmltv_id="ID - FMN">ID - FMN</channel>
+    <channel lang="en" site_id="335" xmltv_id="ID - FOX News">ID - FOX News</channel>
+    <channel lang="en" site_id="352" xmltv_id="ID - France 24 English">ID - France 24 English</channel>
+    <channel lang="en" site_id="13" xmltv_id="ID - Galaxy">ID - Galaxy</channel>
+    <channel lang="en" site_id="12" xmltv_id="ID - Galaxy Premium">ID - Galaxy Premium</channel>
+    <channel lang="en" site_id="201" xmltv_id="ID - Global Trekker">ID - Global Trekker</channel>
+    <channel lang="en" site_id="81" xmltv_id="ID - GTV">ID - GTV</channel>
+    <channel lang="en" site_id="206" xmltv_id="ID - History">ID - History</channel>
+    <channel lang="en" site_id="160" xmltv_id="ID - HITS">ID - HITS</channel>
+    <channel lang="en" site_id="11" xmltv_id="ID - HITS MOVIES">ID - HITS MOVIES</channel>
+    <channel lang="en" site_id="100" xmltv_id="ID - IDX">ID - IDX</channel>
+    <channel lang="en" site_id="14" xmltv_id="ID - IMC">ID - IMC</channel>
+    <channel lang="en" site_id="83" xmltv_id="ID - iNews">ID - iNews</channel>
+    <channel lang="en" site_id="113" xmltv_id="ID - JAKTV">ID - JAKTV</channel>
+    <channel lang="en" site_id="46" xmltv_id="ID - Kids TV">ID - Kids TV</channel>
+    <channel lang="en" site_id="161" xmltv_id="ID - KIX">ID - KIX</channel>
+    <channel lang="en" site_id="106" xmltv_id="ID - Kompas TV">ID - Kompas TV</channel>
+    <channel lang="en" site_id="91" xmltv_id="ID - LIFE">ID - LIFE</channel>
+    <channel lang="en" site_id="167" xmltv_id="ID - Lifetime">ID - Lifetime</channel>
+    <channel lang="en" site_id="107" xmltv_id="ID - Metro TV">ID - Metro TV</channel>
+    <channel lang="en" site_id="82" xmltv_id="ID - MNCTV">ID - MNCTV</channel>
+    <channel lang="en" site_id="149" xmltv_id="ID - MTV 90's">ID - MTV 90's</channel>
+    <channel lang="en" site_id="148" xmltv_id="ID - MTV LIVE">ID - MTV LIVE</channel>
+    <channel lang="en" site_id="111" xmltv_id="ID - Music TV">ID - Music TV</channel>
+    <channel lang="en" site_id="92" xmltv_id="ID - Muslim TV">ID - Muslim TV</channel>
+    <channel lang="en" site_id="16" xmltv_id="ID - My Cinema">ID - My Cinema</channel>
+    <channel lang="en" site_id="17" xmltv_id="ID - My Cinema Asia">ID - My Cinema Asia</channel>
+    <channel lang="en" site_id="15" xmltv_id="ID - My Family">ID - My Family</channel>
+    <channel lang="en" site_id="50" xmltv_id="ID - My Kidz">ID - My Kidz</channel>
+    <channel lang="en" site_id="202" xmltv_id="ID - National Geographic Channel">ID - National Geographic Channel</channel>
+    <channel lang="en" site_id="204" xmltv_id="ID - National Geographic Wild">ID - National Geographic Wild</channel>
+    <channel lang="en" site_id="116" xmltv_id="ID - NET TV">ID - NET TV</channel>
+    <channel lang="en" site_id="355" xmltv_id="ID - NHK World">ID - NHK World</channel>
+    <channel lang="en" site_id="354" xmltv_id="ID - NHK World Premium">ID - NHK World Premium</channel>
+    <channel lang="en" site_id="49" xmltv_id="ID - Nickelodeon">ID - Nickelodeon</channel>
+    <channel lang="en" site_id="37" xmltv_id="ID - Nickelodeon Jr">ID - Nickelodeon Jr</channel>
+    <channel lang="en" site_id="95" xmltv_id="ID - OK TV">ID - OK TV</channel>
+    <channel lang="en" site_id="90" xmltv_id="ID - Okezone TV">ID - Okezone TV</channel>
+    <channel lang="en" site_id="164" xmltv_id="ID - ONE">ID - ONE</channel>
+    <channel lang="en" site_id="163" xmltv_id="ID - PARAMOUNT">ID - PARAMOUNT</channel>
+    <channel lang="en" site_id="80" xmltv_id="ID - RCTI">ID - RCTI</channel>
+    <channel lang="en" site_id="248" xmltv_id="ID - Rock Action">ID - Rock Action</channel>
+    <channel lang="en" site_id="240" xmltv_id="ID - Rock Entertainment">ID - Rock Entertainment</channel>
+    <channel lang="en" site_id="336" xmltv_id="ID - SEA TODAY">ID - SEA TODAY</channel>
+    <channel lang="en" site_id="84" xmltv_id="ID - Sindo News TV">ID - Sindo News TV</channel>
+    <channel lang="en" site_id="101" xmltv_id="ID - Soccer Channel">ID - Soccer Channel</channel>
+    <channel lang="en" site_id="102" xmltv_id="ID - Sportstars">ID - Sportstars</channel>
+    <channel lang="en" site_id="98" xmltv_id="ID - Sportstars 2">ID - Sportstars 2</channel>
+    <channel lang="en" site_id="99" xmltv_id="ID - Sportstars 3">ID - Sportstars 3</channel>
+    <channel lang="en" site_id="88" xmltv_id="ID - Sportstars 4">ID - Sportstars 4</channel>
+    <channel lang="en" site_id="307" xmltv_id="ID - SPOTV">ID - SPOTV</channel>
+    <channel lang="en" site_id="308" xmltv_id="ID - SPOTV 2">ID - SPOTV 2</channel>
+    <channel lang="en" site_id="105" xmltv_id="ID - Tawaf TV">ID - Tawaf TV</channel>
+    <channel lang="en" site_id="19" xmltv_id="ID - Thrill">ID - Thrill</channel>
+    <channel lang="en" site_id="110" xmltv_id="ID - Trans 7">ID - Trans 7</channel>
+    <channel lang="en" site_id="87" xmltv_id="ID - Trans TV">ID - Trans TV</channel>
+    <channel lang="en" site_id="158" xmltv_id="ID - tvN">ID - tvN</channel>
+    <channel lang="en" site_id="25" xmltv_id="ID - tvN Movies">ID - tvN Movies</channel>
+    <channel lang="en" site_id="97" xmltv_id="ID - tvOne">ID - tvOne</channel>
+    <channel lang="en" site_id="118" xmltv_id="ID - TVRI">ID - TVRI</channel>
+    <channel lang="en" site_id="94" xmltv_id="ID - Vision Prime">ID - Vision Prime</channel>
+    <channel lang="en" site_id="23" xmltv_id="ID - Zee Bioskop">ID - Zee Bioskop</channel>
+    <channel lang="en" site_id="39" xmltv_id="ID - Zoomoo">ID - Zoomoo</channel>
   </channels>
 </site>
