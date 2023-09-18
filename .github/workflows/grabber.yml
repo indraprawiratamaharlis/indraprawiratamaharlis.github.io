@@ -14,9 +14,6 @@ on:
   schedule:
   - cron: '30 13 * * *'
 
-env:
-  TZ: Asia/Jakarta
-
 jobs:
   grab:
     runs-on: ubuntu-latest
