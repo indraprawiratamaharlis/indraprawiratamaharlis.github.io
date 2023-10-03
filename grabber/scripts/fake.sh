@@ -1,7 +1,7 @@
 #!/bin/bash
 
 numberofchannels="1"
-declare -a a0=("XX - Expired" "Account Expired!" "Account Expired!" "Account Expired! Hubungi Admin Untuk Mengaktifkan Kembali, Contact: https://m.me/ryuzxc")
+declare -a a0=("XX - Expired" "Account Expired" "Account Expired" "Account Expired! Hubungi Admin Untuk Mengaktifkan Kembali.\nContact: https://m.me/ryuzxc")
 
 startdaysago=("175000" "193500" "211000" "230000")
 enddaysago=("193500" "211000" "230000" "005001")
