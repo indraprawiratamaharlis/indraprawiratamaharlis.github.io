@@ -1,0 +1,57 @@
+name: scripts
+run-name: ${{ github.workflow }} ✅ ${{ github.event_name}}
+on:
+  workflow_call:
+      outputs:
+       scripts_outcome:
+        description: "jobs.scripts.outputs.output_scripts"
+        value: ${{ jobs.scripts.outputs.output_scripts }}
+
+  workflow_dispatch:
+  pull_request_target:
+    branches: 'main'
+    types: [closed]
+  schedule:
+  - cron: '0 17 * * *'
+
+jobs:
+  scripts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    continue-on-error: false
+    strategy:
+      max-parallel: 2
+    defaults:
+      run:
+        working-directory: ./grabber
+    outputs:
+      output_scripts: ${{ steps.scripts_outcome.outputs.scripts_outcome}}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Scripts
+        id: scripts
+        run: |
+          chmod +x ./scripts/fake.sh
+          ./scripts/fake.sh
+        shell: bash
+
+      - name: Outcome
+        id: scripts_outcome
+        run: |
+         echo ${{ github.event_name }}
+         echo ${{ steps.scripts.outcome }}
+         echo "scripts_outcome=${{ steps.scripts.outcome }}" >> $GITHUB_OUTPUT
+          
+      - name: Deploy
+        if: ${{ github.event_name == 'workflow_dispatch' }} || ${{ github.event_name == 'schedule' }}
+        run: |
+          git config --global user.email ${{ secrets.EMAIL }}
+          git config --global user.name ${{ secrets.NAME }}
+          git pull
+          git add ./guide/expired.xml
+          git commit -m "scripts - ${{ steps.scripts.outcome }}"
+          git push
+          
