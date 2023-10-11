@@ -8,7 +8,7 @@
   <time-out>30</time-out>
   <timespan>3</timespan>
   <proxy/>
-  <index-only>off</index-only>
+  <index-only>on</index-only>
   <fusion>off</fusion>
   <fusion-level/>
   <time-converter/>
