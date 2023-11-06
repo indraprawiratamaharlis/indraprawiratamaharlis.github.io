@@ -12,8 +12,8 @@ dayjs.extend(customParseFormat)
 
 module.exports = {
   site: 'mncvision.id',
-  days: 3,
-  url: 'https://mncvision.id/schedule/table',
+  days: 2,
+  url: 'https://www.mncvision.id/schedule/table',
   request: {
     method: 'POST',
     data: function ({ channel, date }) {
@@ -64,21 +64,23 @@ module.exports = {
 
     return programs
   },
-  async channels() {
-    const data = await axios
+  async channels({lang = 'id'}) {
+    const axios = require('axios')
+    const cheerio = require('cheerio')
+    const result = await axios
       .get('https://www.mncvision.id/schedule')
       .then(response => response.data)
       .catch(console.error)
 
-    const $ = cheerio.load(data)
+    const $ = cheerio.load(result)
     const items = $('select[name="fchannel"] option').toArray()
     const channels = items.map(item => {
-      const $item = cheerio.load(item)
+      const $item = $(item)
 
       return {
-        lang: 'id',
-        site_id: $item('*').attr('value'),
-        name: $item('*').text()
+        lang: lang,
+        site_id: $item.attr('value'),
+        name: $item.text().split(' - ')[0].trim()
       }
     })
 
@@ -88,14 +90,14 @@ module.exports = {
 
 function parseSeason($item) {
   const title = parseTitle($item)
-  const [_, season] = title.match(/ S(\d+)/) || [null, null]
+  const [, season] = title.match(/ S(\d+)/) || [null, null]
 
   return season ? parseInt(season) : null
 }
 
 function parseEpisode($item) {
   const title = parseTitle($item)
-  const [_, episode] = title.match(/ Ep (\d+)/) || [null, null]
+  const [, episode] = title.match(/ Ep (\d+)/) || [null, null]
 
   return episode ? parseInt(episode) : null
 }
@@ -158,7 +160,7 @@ function loadLangCookies(channel) {
   return axios
     .get(url, { timeout: 30000 })
     .then(r => parseCookies(r.headers))
-    .catch(err => null)
+    .catch(error => console.log(error.message))
 }
 
 async function loadDescription($item, cookies) {
@@ -170,7 +172,7 @@ async function loadDescription($item, cookies) {
       timeout: 30000
     })
     .then(r => r.data)
-    .catch(err => null)
+    .catch(error => console.log(error.message))
   if (!content) return null
 
   const $page = cheerio.load(content)
@@ -181,4 +183,4 @@ async function loadDescription($item, cookies) {
 
 function parseCookies(headers) {
   return Array.isArray(headers['set-cookie']) ? headers['set-cookie'].join(';') : null
-        }
+}
