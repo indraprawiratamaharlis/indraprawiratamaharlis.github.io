@@ -4,7 +4,7 @@
   "scripts": {
     "update-codes": "node scripts/update-codes.js",
     "NpmInstall": "npm install --save",
-    "mncvision_id": "epg-grabber --config=./config/mncvision.id.config.js --channels=./config/mncvision.id.channels.xml --output=./guide/mncvision.id.xml --days=3 --timeout=30000",
+    "mncvision_id": "epg-grabber --config=./config/mncvision.id.config.js --channels=./config/mncvision.id.channels.xml --output=./guide/mncvision.id.xml --days=3 --max-connections=4 --timeout=30000",
     "movistarplus_es": "epg-grabber --config=./config/movistarplus.es.config.js --channels=./config/movistarplus.es.channels.xml --output=./guide/movistarplus.es.xml --days=3 --max-connections=4 --timeout=30000"
   },
   "author": "Arhey",
