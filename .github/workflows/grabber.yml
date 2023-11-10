@@ -12,7 +12,7 @@ on:
     branches: 'main'
     types: [closed]
   schedule:
-  - cron: '30 13 * * *'
+  - cron: '0 17 * * *'
 
 jobs:
   grab:
@@ -35,11 +35,11 @@ jobs:
       - name: Install npm
         run: npm install
 
-      - name: Grab mncvision.id
+      - name: Grab
         continue-on-error: true
         id: grabber
         run: |
-         npm run mncvision_id
+         npm run indihometv_com
 
       - name: Outcome
         id: grabber_outcome
@@ -56,7 +56,7 @@ jobs:
           git config --global user.name ${{ secrets.NAME }}
           git config pull.rebase true
           echo ${{ steps.grabber.outcome }}
-          git add ./guide/mncvision.id.xml
+          git add ./guide/indihometv.com.xml
           git commit -m "grabber - ${{ steps.grabber.outcome }}"
           git pull
           git push -f
