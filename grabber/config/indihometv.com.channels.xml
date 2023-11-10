@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="indihometv.com" lang="id" xmltv_id="ABC Australia" site_id="abcaustralia">ABC Australia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Aljazeera" site_id="aljazeera">Aljazeera</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Animax" site_id="animax">Animax</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="ANIPlus" site_id="aniplus">ANIPlus</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Antara" site_id="antara">Antara</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="ANTV" site_id="antv">ANTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Arirang" site_id="arirang">Arirang</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Asian Food Network" site_id="afc">Asian Food Network</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="ATV" site_id="atv">ATV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="AXN" site_id="axn">AXN</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Bali TV" site_id="balitv">Bali TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="beIN Sports 1" site_id="bein1">beIN Sports 1</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="beIN Sports 3" site_id="bein2">beIN Sports 3</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="BTV" site_id="beritasatu">BTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Bioskop Indonesia" site_id="bioskopindonesia">Bioskop Indonesia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Bloomberg" site_id="bloomberg">Bloomberg</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Boomerang" site_id="boomerang">Boomerang</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Cartoon Network" site_id="cartoonnetwork">Cartoon Network</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CCTV4" site_id="cctv4">CCTV4</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Celestial Movie" site_id="celestialmovie">Celestial Movie</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CGTN Documentary" site_id="cgtndocumentary">CGTN Documentary</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Cinema World" site_id="cinemaworld">Cinema World</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Citra Dangdut" site_id="citradangdut">Citra Dangdut</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Citra Drama" site_id="cdrama">Citra Drama</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="News Asia" site_id="newsasia">News Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CNBC Asia" site_id="cnbcasia">CNBC Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CNBC Indonesia" site_id="cnbcindonesia">CNBC Indonesia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CNN Indonesia" site_id="cnnindonesia">CNN Indonesia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CNN International" site_id="cnninternational">CNN International</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Crime Investigation" site_id="crimeinvestigation">Crime Investigation</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CTI Asia" site_id="ctiasia">CTI Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Daai TV" site_id="daaitv">Daai TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Da Vinci Learning" site_id="davinci">Da Vinci Learning</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Discovery Channel" site_id="disco">Discovery Channel</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Dreamworks" site_id="dreamworks">Dreamworks</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Dunia Anak" site_id="duniaanak">Dunia Anak</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Dunia Lain" site_id="dunialain">Dunia Lain</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="DW English" site_id="dwtv">DW English</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Eat N Go" site_id="eatgo">Eat N Go</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="EBC Asia" site_id="ettvasia">EBC Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Euronews" site_id="euronews">Euronews</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Fashion TV" site_id="fashiontv">Fashion TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Fight Sport" site_id="fightsport">Fight Sport</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Flik" site_id="flik">Flik</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="France 24" site_id="france24">France 24</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Formosa" site_id="formosa">Formosa</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Galaxy" site_id="galaxy">Galaxy</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Galaxy Premium" site_id="galaxypremium">Galaxy Premium</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SGEM" site_id="sgem">SGEM</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="HGTV" site_id="hgtv">HGTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="History" site_id="history">History</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Hits" site_id="hits">Hits</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="HITS Now" site_id="hitsnow">HITS Now</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Horee" site_id="horee">Horee</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Horizon Sports" site_id="horizonsport">Horizon Sports</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="IDX" site_id="idx">IDX</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="IMC" site_id="imc">IMC</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="FunPlanet" site_id="indikids">FunPlanet</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Indonesiana TV" site_id="indonesiana">Indonesiana TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Indosiar" site_id="indosiar">Indosiar</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="iNews" site_id="inews">iNews</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Panda TV" site_id="pandatv">Panda TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="JakTV" site_id="jaktv">JakTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="JTV" site_id="jtv">JTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="KBS World" site_id="kbsworld">KBS World</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Kix" site_id="kix">Kix</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Kompas TV" site_id="kompastv">Kompas TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Kplus" site_id="kplus">Kplus</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Kungfu TV" site_id="kungfutv">Kungfu TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Lifetime" site_id="lifetime">Lifetime</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Lingua" site_id="lingua">Lingua</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Maxstream" site_id="maxstream">Maxstream</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Mentari TV" site_id="mentaritv">Mentari TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Metro TV" site_id="metrotv">Metro TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SINDO News TV" site_id="mncnews">SINDO News TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MQTV" site_id="mqtv">MQTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MTV Live" site_id="mtvlive">MTV Live</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="My Cinema" site_id="mycinema">My Cinema</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="My Cinema Asia" site_id="mycinemaasia">My Cinema Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="My Family" site_id="myfamily">My Family</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MyKidz" site_id="mykids">MyKidz</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="NBA" site_id="nba">NBA</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="NET" site_id="net">NET</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="NHK World Japan" site_id="nhkworld">NHK World Japan</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Nickelodeon" site_id="nickelodeon">Nickelodeon</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Nick Junior" site_id="nickjr">Nick Junior</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Insert" site_id="insert">Insert</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Nusantara TV" site_id="nusantaratv">Nusantara TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MOJI" site_id="ochannel">MOJI</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SONE" site_id="sone">SONE</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Paramount" site_id="paramount">Paramount</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Prambors" site_id="pramborstv">Prambors</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="AlQuran Kareem" site_id="alquran">AlQuran Kareem</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="RTV" site_id="rtv">RTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Rock Entertainment" site_id="blueant">Rock Entertainment</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Rock Action" site_id="blueantextreme">Rock Action</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Rodja TV" site_id="rodjatv">Rodja TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="RRI NET" site_id="rrinet">RRI NET</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SCTV" site_id="sctv">SCTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SEA Today" site_id="seatoday">SEA Today</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Seru!" site_id="seru">Seru!</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Shenzen" site_id="shenzen">Shenzen</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SPOTV2" site_id="spotv2">SPOTV2</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="SPOTV" site_id="spotv">SPOTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Tawaf TV" site_id="tawaftv">Tawaf TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Tech Storm" site_id="techstorm">Tech Storm</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Thrill" site_id="thrill">Thrill</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TLC" site_id="tlc">TLC</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Trans7" site_id="trans7">Trans7</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TransTV" site_id="transtv">TransTV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TRT World" site_id="trtworld">TRT World</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TV5Monde" site_id="tv5monde">TV5Monde</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TV9 NU" site_id="tv9">TV9 NU</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TVBS News" site_id="tvbs">TVBS News</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MUI TV" site_id="muitv">MUI TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TVN" site_id="tvn">TVN</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TVN Movies" site_id="tvnmovies">TVN Movies</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TV One" site_id="tvone">TV One</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="TVRI" site_id="tvri">TVRI</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="UChannel" site_id="uchannel">UChannel</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="AllPlay Ent" site_id="useeprime">AllPlay Ent</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="UseeSports2" site_id="useesports2">UseeSports2</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="UseeSports" site_id="useesport">UseeSports</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Warner" site_id="warner">Warner</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="ZBioskop" site_id="zbioskop">ZBioskop</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Zhejiang" site_id="zhejiang">Zhejiang</channel>
+</channels>
