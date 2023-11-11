@@ -1,4 +1,4 @@
-name: grabber
+name: indihometv
 run-name: ${{ github.workflow }} ✅ ${{ github.event_name}}
 on:
   workflow_call:
