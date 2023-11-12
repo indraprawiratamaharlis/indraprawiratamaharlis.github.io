@@ -77,7 +77,6 @@
   <channel site="visionplus.id" lang="en" xmltv_id="ID - RCTI" site_id="2">RCTI</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="ID - Rock Action" site_id="62821">Rock Action</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="ID - Rock Entertainment" site_id="62813">Rock Entertainment</channel>
-  <channel site="visionplus.id" lang="en" xmltv_id="ID - RT English" site_id="2881">RT English</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="ID - SEA Today" site_id="37614">SEA Today</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="ID - Sindo News TV" site_id="57">Sindo News TV</channel>
   <channel site="visionplus.id" lang="en" xmltv_id="ID - Soccer Channel" site_id="517">Soccer Channel</channel>
@@ -113,6 +112,7 @@
   <!-- channel site="visionplus.id" lang="en" xmltv_id="MetroTV.id" site_id="41834">Metro TV</channel -->
   <!-- channel site="visionplus.id" lang="en" xmltv_id="MusicTV.id" site_id="41849">Music TV</channel -->
   <!-- channel site="visionplus.id" lang="en" xmltv_id="Reformed21.id" site_id="27984">Reformed 21</channel -->
+  <!-- channel site="visionplus.id" lang="en" xmltv_id="RT.ru" site_id="2881">RT English</channel -->
   <!-- channel site="visionplus.id" lang="en" xmltv_id="TRTWorld.tr" site_id="2854">TRT World</channel -->
   <!-- channel site="visionplus.id" lang="en" xmltv_id="TV5MondeAsia.fr" site_id="28685">TV5 Monde</channel -->
   <!-- channel site="visionplus.id" lang="en" xmltv_id="TV9Nusantara.id" site_id="3738">TV9</channel -->
