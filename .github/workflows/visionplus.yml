@@ -1,4 +1,4 @@
-name: mncvision
+name: visionplus
 run-name: ${{ github.workflow }} ✅ ${{ github.event_name}}
 on:
   workflow_call:
@@ -39,7 +39,7 @@ jobs:
         continue-on-error: true
         id: grabber
         run: |
-         npm run mncvision_id
+         npm run visionplus_id
 
       - name: Outcome
         id: grabber_outcome
@@ -56,7 +56,7 @@ jobs:
           git config --global user.name ${{ secrets.NAME }}
           git config pull.rebase true
           echo ${{ steps.grabber.outcome }}
-          git add ./guide/mncvision.id.xml
+          git add ./guide/visionplus.id.xml
           git commit -m "grabber - ${{ steps.grabber.outcome }}"
           git pull
           git push -f
