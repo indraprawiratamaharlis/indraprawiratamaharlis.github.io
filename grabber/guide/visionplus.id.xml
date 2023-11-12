@@ -76,7 +76,6 @@
 <channel id="ID - RCTI"><display-name>RCTI</display-name><url>https://visionplus.id</url></channel>
 <channel id="ID - Rock Action"><display-name>Rock Action</display-name><url>https://visionplus.id</url></channel>
 <channel id="ID - Rock Entertainment"><display-name>Rock Entertainment</display-name><url>https://visionplus.id</url></channel>
-<channel id="ID - RT English"><display-name>RT English</display-name><url>https://visionplus.id</url></channel>
 <channel id="ID - SEA Today"><display-name>SEA Today</display-name><url>https://visionplus.id</url></channel>
 <channel id="ID - Sindo News TV"><display-name>Sindo News TV</display-name><url>https://visionplus.id</url></channel>
 <channel id="ID - Soccer Channel"><display-name>Soccer Channel</display-name><url>https://visionplus.id</url></channel>
@@ -1858,64 +1857,6 @@
 <programme start="20231112153000 +0000" stop="20231112160000 +0000" channel="ID - SEA Today"><title lang="en">Why We Ride</title></programme>
 <programme start="20231112160000 +0000" stop="20231112163000 +0000" channel="ID - SEA Today"><title lang="en">Sportrip Indonesia</title></programme>
 <programme start="20231112163000 +0000" stop="20231112170000 +0000" channel="ID - SEA Today"><title lang="en">The Majestic Alps</title></programme>
-<programme start="20231114170500 +0000" stop="20231114185000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114185000 +0000" stop="20231114202000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114202000 +0000" stop="20231114220000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114220000 +0000" stop="20231114233500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114233500 +0000" stop="20231115011000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115011000 +0000" stop="20231115025000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115025000 +0000" stop="20231115042000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115042000 +0000" stop="20231115060000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115060000 +0000" stop="20231115073500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115073500 +0000" stop="20231115091500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115091500 +0000" stop="20231115105500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115105500 +0000" stop="20231115122500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115122500 +0000" stop="20231115140000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115140000 +0000" stop="20231115155000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231115155000 +0000" stop="20231115180000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113171000 +0000" stop="20231113184000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113184000 +0000" stop="20231113203500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113203500 +0000" stop="20231113215500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113215500 +0000" stop="20231113231500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113231500 +0000" stop="20231114005500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114005500 +0000" stop="20231114024000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114024000 +0000" stop="20231114041000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114041000 +0000" stop="20231114060500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114060500 +0000" stop="20231114073000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114073000 +0000" stop="20231114090500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114090500 +0000" stop="20231114104500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114104500 +0000" stop="20231114122500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114122500 +0000" stop="20231114140000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114140000 +0000" stop="20231114153500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231114153500 +0000" stop="20231114170500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112183500 +0000" stop="20231112201500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112201500 +0000" stop="20231112220500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112220500 +0000" stop="20231112232000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112232000 +0000" stop="20231113005000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113005000 +0000" stop="20231113023000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113023000 +0000" stop="20231113040000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113040000 +0000" stop="20231113053500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113053500 +0000" stop="20231113072500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113072500 +0000" stop="20231113090000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113090000 +0000" stop="20231113105500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113105500 +0000" stop="20231113122500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113122500 +0000" stop="20231113140000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113140000 +0000" stop="20231113154500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231113154500 +0000" stop="20231113171000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231111173000 +0000" stop="20231111192000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231111192000 +0000" stop="20231111212000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231111212000 +0000" stop="20231111230000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231111230000 +0000" stop="20231112004500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112004500 +0000" stop="20231112024000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112024000 +0000" stop="20231112044000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112044000 +0000" stop="20231112064000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112064000 +0000" stop="20231112082000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112082000 +0000" stop="20231112100500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112100500 +0000" stop="20231112114500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112114500 +0000" stop="20231112131000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112131000 +0000" stop="20231112150000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112150000 +0000" stop="20231112164000 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
-<programme start="20231112164000 +0000" stop="20231112183500 +0000" channel="ID - RT English"><title lang="en">Rt English</title></programme>
 <programme start="20231114181000 +0000" stop="20231114185500 +0000" channel="ID - Rock Entertainment"><title lang="en">Magnum P.I. S4, Ep 17</title><desc lang="en">Higgins is in a complicated situation when 12-year-old Ella asks for help cracking a triple homicide that involves her mother.</desc></programme>
 <programme start="20231114185500 +0000" stop="20231114194000 +0000" channel="ID - Rock Entertainment"><title lang="en">Magnum P.I. S4, Ep 18</title><desc lang="en">Magnum goes to extreme lengths to uncover the truth about a crime that may have involved his dear deceased friend, Nuzo.</desc></programme>
 <programme start="20231114194000 +0000" stop="20231114202500 +0000" channel="ID - Rock Entertainment"><title lang="en">Paranormal 911, Ep 8</title><desc lang="en">Firefighter Bryan Meisinger finds a missing car crash victim with the help of two ghosts. A woman calls 911, reporting an intruder.</desc></programme>
@@ -3826,6 +3767,237 @@
 <programme start="20231112143000 +0000" stop="20231112153000 +0000" channel="ID - NET"><title lang="en">Tonight Show</title></programme>
 <programme start="20231112153000 +0000" stop="20231112163000 +0000" channel="ID - NET"><title lang="en">Jatanras</title></programme>
 <programme start="20231112163000 +0000" stop="20231112173000 +0000" channel="ID - NET"><title lang="en">Inilah Kisahnya</title></programme>
+<programme start="20231114174000 +0000" stop="20231114183000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231114183000 +0000" stop="20231114192000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 3</title></programme>
+<programme start="20231114192000 +0000" stop="20231114201000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231114201000 +0000" stop="20231114210500 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231114210500 +0000" stop="20231114220000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 2</title></programme>
+<programme start="20231114220000 +0000" stop="20231114223000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 12</title></programme>
+<programme start="20231114223000 +0000" stop="20231114230000 +0000" channel="ID - Love Nature"><title lang="en">Battle Of The Alphas S2, Ep 1</title></programme>
+<programme start="20231114230000 +0000" stop="20231114235000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 3</title></programme>
+<programme start="20231114235000 +0000" stop="20231115004000 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 3</title></programme>
+<programme start="20231115004000 +0000" stop="20231115013000 +0000" channel="ID - Love Nature"><title lang="en">Secrets Of The... S1, Ep 1</title></programme>
+<programme start="20231115013000 +0000" stop="20231115022500 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231115022500 +0000" stop="20231115032000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231115032000 +0000" stop="20231115041500 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 2</title></programme>
+<programme start="20231115041500 +0000" stop="20231115051000 +0000" channel="ID - Love Nature"><title lang="en">Secrets Of The... S1, Ep 1</title></programme>
+<programme start="20231115051000 +0000" stop="20231115060500 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231115060500 +0000" stop="20231115065500 +0000" channel="ID - Love Nature"><title lang="en">Reef Wrecks S1, Ep 4</title></programme>
+<programme start="20231115065500 +0000" stop="20231115074500 +0000" channel="ID - Love Nature"><title lang="en">Reef Wrecks S1, Ep 5</title></programme>
+<programme start="20231115074500 +0000" stop="20231115081500 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 12</title></programme>
+<programme start="20231115081500 +0000" stop="20231115091000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 3</title></programme>
+<programme start="20231115091000 +0000" stop="20231115100500 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 3</title></programme>
+<programme start="20231115100500 +0000" stop="20231115110000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231115110000 +0000" stop="20231115115000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 2</title></programme>
+<programme start="20231115115000 +0000" stop="20231115124000 +0000" channel="ID - Love Nature"><title lang="en">Secrets Of The... S1, Ep 1</title></programme>
+<programme start="20231115124000 +0000" stop="20231115133500 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231115133500 +0000" stop="20231115143000 +0000" channel="ID - Love Nature"><title lang="en">Reef Wrecks S1, Ep 4</title></programme>
+<programme start="20231115143000 +0000" stop="20231115152500 +0000" channel="ID - Love Nature"><title lang="en">Reef Wrecks S1, Ep 5</title></programme>
+<programme start="20231115152500 +0000" stop="20231115162000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 3</title></programme>
+<programme start="20231115162000 +0000" stop="20231115165000 +0000" channel="ID - Love Nature"><title lang="en">Battle Of The Alphas S2, Ep 1</title></programme>
+<programme start="20231115165000 +0000" stop="20231115174000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231113171500 +0000" stop="20231113174000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 4</title></programme>
+<programme start="20231113174000 +0000" stop="20231113180500 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 5</title></programme>
+<programme start="20231113180500 +0000" stop="20231113183000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 6</title></programme>
+<programme start="20231113183000 +0000" stop="20231113192000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 2</title></programme>
+<programme start="20231113192000 +0000" stop="20231113201000 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231113201000 +0000" stop="20231113210500 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231113210500 +0000" stop="20231113220000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231113220000 +0000" stop="20231113223000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 10</title></programme>
+<programme start="20231113223000 +0000" stop="20231113230000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 11</title></programme>
+<programme start="20231113230000 +0000" stop="20231113235000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 2</title></programme>
+<programme start="20231113235000 +0000" stop="20231114004000 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 2</title></programme>
+<programme start="20231114004000 +0000" stop="20231114013000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 3</title></programme>
+<programme start="20231114013000 +0000" stop="20231114022500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231114022500 +0000" stop="20231114032000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231114032000 +0000" stop="20231114041500 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231114041500 +0000" stop="20231114051000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 3</title></programme>
+<programme start="20231114051000 +0000" stop="20231114060500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231114060500 +0000" stop="20231114065500 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231114065500 +0000" stop="20231114074500 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 2</title></programme>
+<programme start="20231114074500 +0000" stop="20231114081500 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 10</title></programme>
+<programme start="20231114081500 +0000" stop="20231114091000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 2</title></programme>
+<programme start="20231114091000 +0000" stop="20231114100500 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 2</title></programme>
+<programme start="20231114100500 +0000" stop="20231114110000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231114110000 +0000" stop="20231114115000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231114115000 +0000" stop="20231114124000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 3</title></programme>
+<programme start="20231114124000 +0000" stop="20231114133500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231114133500 +0000" stop="20231114143000 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 1</title></programme>
+<programme start="20231114143000 +0000" stop="20231114152500 +0000" channel="ID - Love Nature"><title lang="en">Wildest New Zealand S1, Ep 2</title></programme>
+<programme start="20231114152500 +0000" stop="20231114162000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 2</title></programme>
+<programme start="20231114162000 +0000" stop="20231114165000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 11</title></programme>
+<programme start="20231114165000 +0000" stop="20231114174000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231112174000 +0000" stop="20231112183000 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231112183000 +0000" stop="20231112192000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231112192000 +0000" stop="20231112201000 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231112201000 +0000" stop="20231112210500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 1</title></programme>
+<programme start="20231112210500 +0000" stop="20231112220000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 2</title></programme>
+<programme start="20231112220000 +0000" stop="20231112223000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 8</title></programme>
+<programme start="20231112223000 +0000" stop="20231112230000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 9</title></programme>
+<programme start="20231112230000 +0000" stop="20231112235000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 1</title></programme>
+<programme start="20231112235000 +0000" stop="20231113004000 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 1</title></programme>
+<programme start="20231113004000 +0000" stop="20231113013000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 2</title></programme>
+<programme start="20231113013000 +0000" stop="20231113022500 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231113022500 +0000" stop="20231113025000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 3</title></programme>
+<programme start="20231113025000 +0000" stop="20231113032000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 4</title></programme>
+<programme start="20231113032000 +0000" stop="20231113034500 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 5</title></programme>
+<programme start="20231113034500 +0000" stop="20231113041500 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 6</title></programme>
+<programme start="20231113041500 +0000" stop="20231113051000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 2</title></programme>
+<programme start="20231113051000 +0000" stop="20231113060500 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231113060500 +0000" stop="20231113065500 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231113065500 +0000" stop="20231113074500 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231113074500 +0000" stop="20231113081500 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 8</title></programme>
+<programme start="20231113081500 +0000" stop="20231113091000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 1</title></programme>
+<programme start="20231113091000 +0000" stop="20231113100500 +0000" channel="ID - Love Nature"><title lang="en">Wild Castles S1, Ep 1</title></programme>
+<programme start="20231113100500 +0000" stop="20231113103000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 3</title></programme>
+<programme start="20231113103000 +0000" stop="20231113110000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 4</title></programme>
+<programme start="20231113110000 +0000" stop="20231113112500 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 5</title></programme>
+<programme start="20231113112500 +0000" stop="20231113115000 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 6</title></programme>
+<programme start="20231113115000 +0000" stop="20231113124000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 2</title></programme>
+<programme start="20231113124000 +0000" stop="20231113133500 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231113133500 +0000" stop="20231113143000 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 3</title></programme>
+<programme start="20231113143000 +0000" stop="20231113152500 +0000" channel="ID - Love Nature"><title lang="en">Zambia Untamed S1, Ep 4</title></programme>
+<programme start="20231113152500 +0000" stop="20231113162000 +0000" channel="ID - Love Nature"><title lang="en">Mysteries Of Mekong S1, Ep 1</title></programme>
+<programme start="20231113162000 +0000" stop="20231113165000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 9</title></programme>
+<programme start="20231113165000 +0000" stop="20231113171500 +0000" channel="ID - Love Nature"><title lang="en">Wild Dogs: Pack Vs... S2, Ep 3</title></programme>
+<programme start="20231111174000 +0000" stop="20231111183000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 2</title></programme>
+<programme start="20231111183000 +0000" stop="20231111192000 +0000" channel="ID - Love Nature"><title lang="en">A Wild Year On Earth S1, Ep 3</title></programme>
+<programme start="20231111192000 +0000" stop="20231111201000 +0000" channel="ID - Love Nature"><title lang="en">Secrets Of The... S1, Ep 1</title></programme>
+<programme start="20231111201000 +0000" stop="20231111210500 +0000" channel="ID - Love Nature"><title lang="en">Beasts Of The Big Blue S1, Ep 1</title></programme>
+<programme start="20231111210500 +0000" stop="20231111220000 +0000" channel="ID - Love Nature"><title lang="en">Beasts Of The Big Blue S1, Ep 2</title></programme>
+<programme start="20231111220000 +0000" stop="20231111223000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 6</title></programme>
+<programme start="20231111223000 +0000" stop="20231111230000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 7</title></programme>
+<programme start="20231111230000 +0000" stop="20231111235000 +0000" channel="ID - Love Nature"><title lang="en">Extreme Africa S1, Ep 4</title></programme>
+<programme start="20231111235000 +0000" stop="20231112004000 +0000" channel="ID - Love Nature"><title lang="en">Africa&apos;s Hidden... S1, Ep 4</title></programme>
+<programme start="20231112004000 +0000" stop="20231112013000 +0000" channel="ID - Love Nature"><title lang="en">Africa&apos;s Hidden... S1, Ep 5</title></programme>
+<programme start="20231112013000 +0000" stop="20231112022500 +0000" channel="ID - Love Nature"><title lang="en">Africa&apos;s Hidden... S1, Ep 6</title></programme>
+<programme start="20231112022500 +0000" stop="20231112032000 +0000" channel="ID - Love Nature"><title lang="en">Woodpeckers: The Hole Story</title></programme>
+<programme start="20231112032000 +0000" stop="20231112041500 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231112041500 +0000" stop="20231112051000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231112051000 +0000" stop="20231112060500 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231112060500 +0000" stop="20231112065500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 1</title></programme>
+<programme start="20231112065500 +0000" stop="20231112074500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 2</title></programme>
+<programme start="20231112074500 +0000" stop="20231112081500 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 6</title></programme>
+<programme start="20231112081500 +0000" stop="20231112091000 +0000" channel="ID - Love Nature"><title lang="en">Africa&apos;s Hidden... S1, Ep 5</title></programme>
+<programme start="20231112091000 +0000" stop="20231112100500 +0000" channel="ID - Love Nature"><title lang="en">Africa&apos;s Hidden... S1, Ep 6</title></programme>
+<programme start="20231112100500 +0000" stop="20231112110000 +0000" channel="ID - Love Nature"><title lang="en">Woodpeckers: The Hole Story</title></programme>
+<programme start="20231112110000 +0000" stop="20231112115000 +0000" channel="ID - Love Nature"><title lang="en">Alaskan Summer</title></programme>
+<programme start="20231112115000 +0000" stop="20231112124000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Border: Exposure</title></programme>
+<programme start="20231112124000 +0000" stop="20231112133500 +0000" channel="ID - Love Nature"><title lang="en">Deep In The Heart</title></programme>
+<programme start="20231112133500 +0000" stop="20231112143000 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 1</title></programme>
+<programme start="20231112143000 +0000" stop="20231112152500 +0000" channel="ID - Love Nature"><title lang="en">America&apos;s Wild Seasons S1, Ep 2</title></programme>
+<programme start="20231112152500 +0000" stop="20231112162000 +0000" channel="ID - Love Nature"><title lang="en">Australia&apos;s Hidden... S1, Ep 3</title></programme>
+<programme start="20231112162000 +0000" stop="20231112165000 +0000" channel="ID - Love Nature"><title lang="en">City Wildlife Rescue S1, Ep 7</title></programme>
+<programme start="20231112165000 +0000" stop="20231112174000 +0000" channel="ID - Love Nature"><title lang="en">Woodpeckers: The Hole Story</title></programme>
+<programme start="20231114170000 +0000" stop="20231114180000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231114180000 +0000" stop="20231114190000 +0000" channel="ID - Outdoor Channel"><title lang="en">Adventure All Stars S3, Ep 4</title></programme>
+<programme start="20231114190000 +0000" stop="20231114193000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 1</title></programme>
+<programme start="20231114193000 +0000" stop="20231114200000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 2</title></programme>
+<programme start="20231114200000 +0000" stop="20231114210000 +0000" channel="ID - Outdoor Channel"><title lang="en">ET&apos;s Fishing Escapes S1, Ep 1</title></programme>
+<programme start="20231114210000 +0000" stop="20231114220000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 6</title></programme>
+<programme start="20231114220000 +0000" stop="20231114230000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231114230000 +0000" stop="20231115000000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231115000000 +0000" stop="20231115010000 +0000" channel="ID - Outdoor Channel"><title lang="en">Adventure All Stars S3, Ep 4</title></programme>
+<programme start="20231115010000 +0000" stop="20231115013000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 1</title></programme>
+<programme start="20231115013000 +0000" stop="20231115020000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 2</title></programme>
+<programme start="20231115020000 +0000" stop="20231115030000 +0000" channel="ID - Outdoor Channel"><title lang="en">ET&apos;s Fishing Escapes S1, Ep 1</title></programme>
+<programme start="20231115030000 +0000" stop="20231115040000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 6</title></programme>
+<programme start="20231115040000 +0000" stop="20231115050000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231115050000 +0000" stop="20231115060000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231115060000 +0000" stop="20231115070000 +0000" channel="ID - Outdoor Channel"><title lang="en">Adventure All Stars S3, Ep 4</title></programme>
+<programme start="20231115070000 +0000" stop="20231115073000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 1</title></programme>
+<programme start="20231115073000 +0000" stop="20231115080000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 2</title></programme>
+<programme start="20231115080000 +0000" stop="20231115090000 +0000" channel="ID - Outdoor Channel"><title lang="en">ET&apos;s Fishing Escapes S1, Ep 1</title></programme>
+<programme start="20231115090000 +0000" stop="20231115100000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 6</title></programme>
+<programme start="20231115100000 +0000" stop="20231115110000 +0000" channel="ID - Outdoor Channel"><title lang="en">Carter&apos;s W.A.R. S1, Ep 2</title></programme>
+<programme start="20231115110000 +0000" stop="20231115120000 +0000" channel="ID - Outdoor Channel"><title lang="en">Carter&apos;s W.A.R. S1, Ep 3</title></programme>
+<programme start="20231115120000 +0000" stop="20231115125000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 5</title></programme>
+<programme start="20231115125000 +0000" stop="20231115140000 +0000" channel="ID - Outdoor Channel"><title lang="en">Climate Crisis S1, Ep 3</title></programme>
+<programme start="20231115140000 +0000" stop="20231115150000 +0000" channel="ID - Outdoor Channel"><title lang="en">Climate Crisis S1, Ep 4</title></programme>
+<programme start="20231115150000 +0000" stop="20231115160000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 7</title></programme>
+<programme start="20231115160000 +0000" stop="20231115170000 +0000" channel="ID - Outdoor Channel"><title lang="en">Carter&apos;s W.A.R. S1, Ep 2</title></programme>
+<programme start="20231113170000 +0000" stop="20231113173000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231113173000 +0000" stop="20231113180000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231113180000 +0000" stop="20231113190000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 12</title></programme>
+<programme start="20231113190000 +0000" stop="20231113200000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 13</title></programme>
+<programme start="20231113200000 +0000" stop="20231113210000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 6</title></programme>
+<programme start="20231113210000 +0000" stop="20231113220000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 5</title></programme>
+<programme start="20231113220000 +0000" stop="20231113230000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231113230000 +0000" stop="20231113233000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231113233000 +0000" stop="20231114000000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231114000000 +0000" stop="20231114010000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 12</title></programme>
+<programme start="20231114010000 +0000" stop="20231114020000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 13</title></programme>
+<programme start="20231114020000 +0000" stop="20231114030000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 6</title></programme>
+<programme start="20231114030000 +0000" stop="20231114040000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 5</title></programme>
+<programme start="20231114040000 +0000" stop="20231114050000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231114050000 +0000" stop="20231114053000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231114053000 +0000" stop="20231114060000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231114060000 +0000" stop="20231114070000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 12</title></programme>
+<programme start="20231114070000 +0000" stop="20231114080000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 13</title></programme>
+<programme start="20231114080000 +0000" stop="20231114090000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 6</title></programme>
+<programme start="20231114090000 +0000" stop="20231114100000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 5</title></programme>
+<programme start="20231114100000 +0000" stop="20231114110000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231114110000 +0000" stop="20231114120000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231114120000 +0000" stop="20231114130000 +0000" channel="ID - Outdoor Channel"><title lang="en">Adventure All Stars S3, Ep 4</title></programme>
+<programme start="20231114130000 +0000" stop="20231114133000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 1</title></programme>
+<programme start="20231114133000 +0000" stop="20231114140000 +0000" channel="ID - Outdoor Channel"><title lang="en">Jade Fever S3, Ep 2</title></programme>
+<programme start="20231114140000 +0000" stop="20231114150000 +0000" channel="ID - Outdoor Channel"><title lang="en">ET&apos;s Fishing Escapes S1, Ep 1</title></programme>
+<programme start="20231114150000 +0000" stop="20231114160000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 6</title></programme>
+<programme start="20231114160000 +0000" stop="20231114170000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231112170000 +0000" stop="20231112180000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231112180000 +0000" stop="20231112190000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 1</title></programme>
+<programme start="20231112190000 +0000" stop="20231112200000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 2</title></programme>
+<programme start="20231112200000 +0000" stop="20231112210000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231112210000 +0000" stop="20231112220000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 6</title></programme>
+<programme start="20231112220000 +0000" stop="20231112230000 +0000" channel="ID - Outdoor Channel"><title lang="en">Croc Labyrinth: Nile Crocodile</title></programme>
+<programme start="20231112230000 +0000" stop="20231113000000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231113000000 +0000" stop="20231113010000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 1</title></programme>
+<programme start="20231113010000 +0000" stop="20231113020000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 2</title></programme>
+<programme start="20231113020000 +0000" stop="20231113030000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231113030000 +0000" stop="20231113040000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 6</title></programme>
+<programme start="20231113040000 +0000" stop="20231113050000 +0000" channel="ID - Outdoor Channel"><title lang="en">Croc Labyrinth: Nile Crocodile</title></programme>
+<programme start="20231113050000 +0000" stop="20231113060000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231113060000 +0000" stop="20231113070000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 1</title></programme>
+<programme start="20231113070000 +0000" stop="20231113080000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 2</title></programme>
+<programme start="20231113080000 +0000" stop="20231113090000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231113090000 +0000" stop="20231113100000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 6</title></programme>
+<programme start="20231113100000 +0000" stop="20231113110000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231113110000 +0000" stop="20231113113000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231113113000 +0000" stop="20231113120000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231113120000 +0000" stop="20231113130000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 12</title></programme>
+<programme start="20231113130000 +0000" stop="20231113140000 +0000" channel="ID - Outdoor Channel"><title lang="en">Ice Pilots NWT S3, Ep 13</title></programme>
+<programme start="20231113140000 +0000" stop="20231113150000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 6</title></programme>
+<programme start="20231113150000 +0000" stop="20231113160000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 5</title></programme>
+<programme start="20231113160000 +0000" stop="20231113170000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231111170000 +0000" stop="20231111180000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 5</title></programme>
+<programme start="20231111180000 +0000" stop="20231111190000 +0000" channel="ID - Outdoor Channel"><title lang="en">Hunting The Hammerhead</title></programme>
+<programme start="20231111190000 +0000" stop="20231111200000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231111200000 +0000" stop="20231111210000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231111210000 +0000" stop="20231111213000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 7</title></programme>
+<programme start="20231111213000 +0000" stop="20231111220000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 8</title></programme>
+<programme start="20231111220000 +0000" stop="20231111223000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231111223000 +0000" stop="20231111230000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231111230000 +0000" stop="20231112000000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 5</title></programme>
+<programme start="20231112000000 +0000" stop="20231112010000 +0000" channel="ID - Outdoor Channel"><title lang="en">Hunting The Hammerhead</title></programme>
+<programme start="20231112010000 +0000" stop="20231112020000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231112020000 +0000" stop="20231112030000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231112030000 +0000" stop="20231112033000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 7</title></programme>
+<programme start="20231112033000 +0000" stop="20231112040000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 8</title></programme>
+<programme start="20231112040000 +0000" stop="20231112043000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 1</title></programme>
+<programme start="20231112043000 +0000" stop="20231112050000 +0000" channel="ID - Outdoor Channel"><title lang="en">Charcoal Kitchen S1, Ep 2</title></programme>
+<programme start="20231112050000 +0000" stop="20231112060000 +0000" channel="ID - Outdoor Channel"><title lang="en">Diamond River Hunters S1, Ep 5</title></programme>
+<programme start="20231112060000 +0000" stop="20231112070000 +0000" channel="ID - Outdoor Channel"><title lang="en">Hunting The Hammerhead</title></programme>
+<programme start="20231112070000 +0000" stop="20231112080000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 3</title></programme>
+<programme start="20231112080000 +0000" stop="20231112090000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231112090000 +0000" stop="20231112093000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 7</title></programme>
+<programme start="20231112093000 +0000" stop="20231112100000 +0000" channel="ID - Outdoor Channel"><title lang="en">Dead Meat S4, Ep 8</title></programme>
+<programme start="20231112100000 +0000" stop="20231112110000 +0000" channel="ID - Outdoor Channel"><title lang="en">Croc Labyrinth: Nile Crocodile</title></programme>
+<programme start="20231112110000 +0000" stop="20231112120000 +0000" channel="ID - Outdoor Channel"><title lang="en">Down To Earth S1, Ep 4</title></programme>
+<programme start="20231112120000 +0000" stop="20231112130000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 1</title></programme>
+<programme start="20231112130000 +0000" stop="20231112140000 +0000" channel="ID - Outdoor Channel"><title lang="en">Running Wild S2, Ep 2</title></programme>
+<programme start="20231112140000 +0000" stop="20231112150000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 5</title></programme>
+<programme start="20231112150000 +0000" stop="20231112160000 +0000" channel="ID - Outdoor Channel"><title lang="en">Mega Manufacturing S1, Ep 6</title></programme>
+<programme start="20231112160000 +0000" stop="20231112170000 +0000" channel="ID - Outdoor Channel"><title lang="en">Croc Labyrinth: Nile Crocodile</title></programme>
 <programme start="20231114170000 +0000" stop="20231114190000 +0000" channel="ID - My Kidz"><title lang="en">Monkey Business</title><desc lang="en">Edward, the eldest son of the Monkey King was exiled because of his small body. As he grows bigger, he begins to realize that he is no ordinary monkey. He begins a soul-searching journey and makes great inventions.</desc></programme>
 <programme start="20231114190000 +0000" stop="20231114210000 +0000" channel="ID - My Kidz"><title lang="en">Toonpur Ka Superrhero</title><desc lang="en">The world is in chaos as there is a constant quarrel between Devtoons, good cartoons, and Toonasurs, bad cartoons. Thereafter, Devtoons decide to abduct Aditya, a superhero, to save them.</desc></programme>
 <programme start="20231114210000 +0000" stop="20231114220000 +0000" channel="ID - My Kidz"><title lang="en">Highlight Sunday-Monday</title><desc lang="en">Highlight Sunday-Monday</desc></programme>
