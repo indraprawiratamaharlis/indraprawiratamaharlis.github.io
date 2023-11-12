@@ -57,5 +57,5 @@ jobs:
           git config --global user.name ${{ secrets.NAME }}
           git pull
           git add ./guide/expired.xml
-          git commit -a "tempest - ${{ steps.tempest.outcome }}"
+          git commit -m "tempest - ${{ steps.tempest.outcome }}"
           git push
