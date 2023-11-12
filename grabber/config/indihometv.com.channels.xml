@@ -52,6 +52,7 @@
   <channel site="indihometv.com" lang="id" xmltv_id="HGTV" site_id="hgtv">HGTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="History" site_id="history">History</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="Hits" site_id="hits">Hits</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Hits Movie" site_id="hitsmovie">Hits Movie</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="HITS Now" site_id="hitsnow">HITS Now</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="Horee" site_id="horee">Horee</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="Horizon Sports" site_id="horizonsport">Horizon Sports</channel>
