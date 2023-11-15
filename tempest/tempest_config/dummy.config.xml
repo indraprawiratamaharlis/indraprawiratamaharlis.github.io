@@ -6,7 +6,7 @@
   <logger>off</logger>
   <retry>3</retry>
   <time-out>30</time-out>
-  <timespan>7.1</timespan>
+  <timespan>3</timespan>
   <proxy/>
   <index-only>off</index-only>
   <fusion>off</fusion>
