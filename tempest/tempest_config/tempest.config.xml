@@ -18,7 +18,18 @@
   <inverter-filename/>
   <inverter-path/>
   <logname/>
-  <channel site="[ENC]mncvision.id_0" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="20588||CANAL..SPORT" xmltv_id="PL - CANAL+ SPORT">PL - CANAL+ SPORT</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="20928||CANAL..SPORT.2" xmltv_id="PL - CANAL+ SPORT 2">PL - CANAL+ SPORT 2</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21581||CANAL..SPORT.3" xmltv_id="PL - CANAL+ SPORT 3">PL - CANAL+ SPORT 3</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21583||CANAL..SPORT.4" xmltv_id="PL - CANAL+ SPORT 4">PL - CANAL+ SPORT 4</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="20855||CANAL..SPORT.5" xmltv_id="PL - CANAL+ SPORT 5">PL - CANAL+ SPORT 5</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="20843||ELEVEN.SPORTS.1.HD" xmltv_id="PL - ELEVEN SPORTS 1">PL - ELEVEN SPORTS 1</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="20847||ELEVEN.SPORTS.2.HD" xmltv_id="PL - ELEVEN SPORTS 2">PL - ELEVEN SPORTS 2</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21041||ELEVEN.SPORTS.3.HD" xmltv_id="PL - ELEVEN SPORTS 3">PL - ELEVEN SPORTS 3</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21282||ELEVEN.SPORTS.4.HD" xmltv_id="PL - ELEVEN SPORTS 4">PL - ELEVEN SPORTS 4</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21461||POLSAT.SPORT.PREMIUM.1" xmltv_id="PL - POLSAT SPORT PREMIUM 1">PL - POLSAT SPORT PREMIUM 1</channel>
+  <channel site="[ENC]canalplus.com[pl]_0" site_id="21462||POLSAT.SPORT.PREMIUM.2" xmltv_id="PL - POLSAT SPORT PREMIUM 2">PL - POLSAT SPORT PREMIUM 2</channel>
+  <!-- channel site="[ENC]mncvision.id_0" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
   <channel site="[ENC]mncvision.id_0" site_id="331" xmltv_id="ID - Al Jazeera English">ID - Al Jazeera English</channel>
   <channel site="[ENC]mncvision.id_0" site_id="93" xmltv_id="ID - Al Quran Al Kareem">ID - Al Quran Al Kareem</channel>
   <channel site="[ENC]mncvision.id_0" site_id="157" xmltv_id="ID - Animax">ID - Animax</channel>
@@ -113,5 +124,5 @@
   <channel site="[ENC]mncvision.id_0" site_id="118" xmltv_id="ID - TVRI">ID - TVRI</channel>
   <channel site="[ENC]mncvision.id_0" site_id="94" xmltv_id="ID - Vision Prime">ID - Vision Prime</channel>
   <channel site="[ENC]mncvision.id_0" site_id="23" xmltv_id="ID - Zee Bioskop">ID - Zee Bioskop</channel>
-  <channel site="[ENC]mncvision.id_0" site_id="39" xmltv_id="ID - Zoomoo">ID - Zoomoo</channel>
+  <channel site="[ENC]mncvision.id_0" site_id="39" xmltv_id="ID - Zoomoo">ID - Zoomoo</channel -->
 </configuration>
