@@ -321,7 +321,7 @@
     <title lang="pl">Sędziowie</title>
     <sub-title lang="pl">Raczek</sub-title>
     <desc lang="pl">Serial dokumentalny przygotowany przez Macieja Klimka i Michała Siejaka przedstawia sędziów piłkarskich Ekstraklasy z niemal każdej strony. W ośmiu odcinkach widzowie nie tylko zobaczą i - co najważniejsze - usłyszą pracę arbitrów podczas meczów, ale też będą mogli poznać ich życie prywatne i wiele innych perspektyw tego często niedocenianego zawodu.</desc>
-    <category lang="pl">Seria</category>
+    <category lang="pl">Seriale</category>
     <category lang="pl">Serial dokumentalny</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10860000/A_10869553.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -431,12 +431,12 @@
     </rating>
   </programme>
   <programme start="20231125125500 +0000" stop="20231125134000 +0000" channel="PL - CANAL+ SPORT">
-    <title lang="pl">Raków. Pierwszy wszystko!</title>
+    <title lang="pl">Raków. P1erwszy wszystko</title>
     <sub-title lang="pl">Przyszłość mistrza</sub-title>
     <desc lang="pl">Częstochowski klub to świeżo upieczony Mistrz Polski, który w ubiegłych dwóch sezonach wywalczył także Puchar Polski. Raków Częstochowa jest zespołem, który w Ekstraklasie skutecznie przełamał hegemonię Legii oraz Lecha.</desc>
-    <category lang="pl">Informacyjne</category>
-    <category lang="pl">Seria dokumentalna</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10000000/ADVERT_10000266.jpg"/>
+    <category lang="pl">Seriale</category>
+    <category lang="pl">Serial</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11060000/A_11063531.jpg"/>
     <country lang="pl">Polska</country>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <video>
@@ -445,6 +445,9 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <rating system="NBC-PL">
+      <value>+16</value>
+    </rating>
   </programme>
   <programme start="20231125134000 +0000" stop="20231125135500 +0000" channel="PL - CANAL+ SPORT">
     <title lang="pl">Wstęp do meczu</title>
@@ -621,11 +624,11 @@
   </programme>
   <programme start="20231126050000 +0000" stop="20231126071000 +0000" channel="PL - CANAL+ SPORT">
     <title lang="pl">Atletico Madryt - RCD Mallorca</title>
-    <desc lang="pl">Los Colchoneros w minionej kolejce przegrali w prestiżowym meczu z Barceloną. W środku tygodnia Atleti zagra z Mallorcą.</desc>
+    <desc lang="pl">Los Colchoneros, czwarta ekipa stawki, w najbliższej kolejce LaLigi podejmie wyspiarzy z Majorki, którzy zajmują miejsce tuż nad strefę spadkową.</desc>
     <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Pilka nozna</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10930000/A_10937060.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391337.jpg"/>
     <country lang="pl">Hiszpania</country>
     <video>
       <quality>HD</quality>
@@ -1125,7 +1128,7 @@
     <title lang="pl">Sędziowie</title>
     <sub-title lang="pl">Kwiatek</sub-title>
     <desc lang="pl">Serial dokumentalny przygotowany przez Macieja Klimka i Michała Siejaka przedstawia sędziów piłkarskich Ekstraklasy z niemal każdej strony. W ośmiu odcinkach widzowie nie tylko zobaczą i - co najważniejsze - usłyszą pracę arbitrów podczas meczów, ale też będą mogli poznać ich życie prywatne i wiele innych perspektyw tego często niedocenianego zawodu.</desc>
-    <category lang="pl">Seria</category>
+    <category lang="pl">Seriale</category>
     <category lang="pl">Serial dokumentalny</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10860000/A_10869553.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -1355,7 +1358,7 @@
     </rating>
   </programme>
   <programme start="20231125014500 +0000" stop="20231125050000 +0000" channel="PL - CANAL+ SPORT 2">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -1490,11 +1493,11 @@
   </programme>
   <programme start="20231125195500 +0000" stop="20231125220000 +0000" channel="PL - CANAL+ SPORT 2">
     <title lang="pl">Atletico Madryt - RCD Mallorca</title>
-    <desc lang="pl">Los Colchoneros w minionej kolejce przegrali w prestiżowym meczu z Barceloną. W środku tygodnia Atleti zagra z Mallorcą.</desc>
+    <desc lang="pl">Los Colchoneros, czwarta ekipa stawki, w najbliższej kolejce LaLigi podejmie wyspiarzy z Majorki, którzy zajmują miejsce tuż nad strefę spadkową.</desc>
     <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Pilka nozna</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10930000/A_10937060.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391337.jpg"/>
     <country lang="pl">Hiszpania</country>
     <video>
       <quality>HD</quality>
@@ -1542,7 +1545,7 @@
     </rating>
   </programme>
   <programme start="20231126020000 +0000" stop="20231126050000 +0000" channel="PL - CANAL+ SPORT 2">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -1771,7 +1774,7 @@
     </rating>
   </programme>
   <programme start="20231127020000 +0000" stop="20231127050000 +0000" channel="PL - CANAL+ SPORT 2">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -2371,12 +2374,27 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20231125161000 +0000" stop="20231125184000 +0000" channel="PL - CANAL+ SPORT 3">
+  <programme start="20231125161000 +0000" stop="20231125162500 +0000" channel="PL - CANAL+ SPORT 3">
     <title lang="pl">Wstęp do meczu</title>
     <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Magazyn sportowy</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195634"/>
+    <country lang="pl">Polska</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20231125162500 +0000" stop="20231125184000 +0000" channel="PL - CANAL+ SPORT 3">
+    <title lang="pl">Pogoń Szczecin - PGE FKS Stal Mielec</title>
+    <desc lang="pl">Pogoń podejmie Stal w meczu 16. kolejki Ekstraklasy.</desc>
+    <date>2023</date>
+    <category lang="pl">Sport</category>
+    <category lang="pl">Pilka nozna</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11380000/A_11389245.jpg"/>
     <country lang="pl">Polska</country>
     <video>
       <quality>HD</quality>
@@ -2651,10 +2669,11 @@
   </programme>
   <programme start="20231126183000 +0000" stop="20231126200000 +0000" channel="PL - CANAL+ SPORT 3">
     <title lang="pl">Liga+ Extra</title>
-    <desc lang="pl">LIGA+EXTRA 23/07/2023</desc>
+    <desc lang="pl">Najlepszy ligowy magazyn w Polsce w nowej odsłonie. Bartosz Gleń i Krzysztof Marciniak oraz zaproszeni goście podsumowują wszystkie najważniejsze wydarzenia kolejki PKO BP Ekstraklasy. W programie niebanalne tematy i rozmowy z bohaterami polskich stadionów.</desc>
+    <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Magazyn sportowy</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10390000/A_10395886.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391294.jpg"/>
     <country lang="pl">Polska</country>
     <video>
       <quality>HD</quality>
@@ -2744,10 +2763,11 @@
   </programme>
   <programme start="20231127023000 +0000" stop="20231127040000 +0000" channel="PL - CANAL+ SPORT 3">
     <title lang="pl">Liga+ Extra</title>
-    <desc lang="pl">LIGA+EXTRA 23/07/2023</desc>
+    <desc lang="pl">Najlepszy ligowy magazyn w Polsce w nowej odsłonie. Bartosz Gleń i Krzysztof Marciniak oraz zaproszeni goście podsumowują wszystkie najważniejsze wydarzenia kolejki PKO BP Ekstraklasy. W programie niebanalne tematy i rozmowy z bohaterami polskich stadionów.</desc>
+    <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Magazyn sportowy</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10390000/A_10395886.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391294.jpg"/>
     <country lang="pl">Polska</country>
     <video>
       <quality>HD</quality>
@@ -2804,10 +2824,11 @@
   </programme>
   <programme start="20231127073000 +0000" stop="20231127093000 +0000" channel="PL - CANAL+ SPORT 3">
     <title lang="pl">Liga+ Extra</title>
-    <desc lang="pl">LIGA+EXTRA 23/07/2023</desc>
+    <desc lang="pl">Najlepszy ligowy magazyn w Polsce w nowej odsłonie. Bartosz Gleń i Krzysztof Marciniak oraz zaproszeni goście podsumowują wszystkie najważniejsze wydarzenia kolejki PKO BP Ekstraklasy. W programie niebanalne tematy i rozmowy z bohaterami polskich stadionów.</desc>
+    <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Magazyn sportowy</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10390000/A_10395886.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391294.jpg"/>
     <country lang="pl">Polska</country>
     <video>
       <quality>HD</quality>
@@ -2864,10 +2885,11 @@
   </programme>
   <programme start="20231127133000 +0000" stop="20231127151500 +0000" channel="PL - CANAL+ SPORT 3">
     <title lang="pl">Liga+ Extra</title>
-    <desc lang="pl">LIGA+EXTRA 23/07/2023</desc>
+    <desc lang="pl">Najlepszy ligowy magazyn w Polsce w nowej odsłonie. Bartosz Gleń i Krzysztof Marciniak oraz zaproszeni goście podsumowują wszystkie najważniejsze wydarzenia kolejki PKO BP Ekstraklasy. W programie niebanalne tematy i rozmowy z bohaterami polskich stadionów.</desc>
+    <date>2023</date>
     <category lang="pl">Sport</category>
     <category lang="pl">Magazyn sportowy</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10390000/A_10395886.jpg"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11390000/A_11391294.jpg"/>
     <country lang="pl">Polska</country>
     <video>
       <quality>HD</quality>
@@ -4262,7 +4284,7 @@
     <subtitles type="teletext"/>
   </programme>
   <programme start="20231125020000 +0000" stop="20231125050000 +0000" channel="PL - CANAL+ SPORT 5">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -4496,7 +4518,7 @@
     <subtitles type="teletext"/>
   </programme>
   <programme start="20231126020000 +0000" stop="20231126050000 +0000" channel="PL - CANAL+ SPORT 5">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -4703,7 +4725,7 @@
     <subtitles type="teletext"/>
   </programme>
   <programme start="20231127022000 +0000" stop="20231127050000 +0000" channel="PL - CANAL+ SPORT 5">
-    <title lang="pl">Przerwa w nadawaniu</title>
+    <title lang="pl">Interruption des programmes</title>
     <desc lang="pl">Przerwa w nadawaniu</desc>
     <date>2023</date>
     <category lang="pl">Informacyjne</category>
@@ -4902,7 +4924,7 @@
     <title lang="pl">Sędziowie</title>
     <sub-title lang="pl">VAR</sub-title>
     <desc lang="pl">Serial dokumentalny przygotowany przez Macieja Klimka i Michała Siejaka przedstawia sędziów piłkarskich Ekstraklasy z niemal każdej strony. W ośmiu odcinkach widzowie nie tylko zobaczą i - co najważniejsze - usłyszą pracę arbitrów podczas meczów, ale też będą mogli poznać ich życie prywatne i wiele innych perspektyw tego często niedocenianego zawodu.</desc>
-    <category lang="pl">Seria</category>
+    <category lang="pl">Seriale</category>
     <category lang="pl">Serial dokumentalny</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/10860000/A_10869553.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
