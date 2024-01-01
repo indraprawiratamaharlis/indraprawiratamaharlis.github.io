@@ -1,98 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site site="mncvision.id">
-  <channels>
-    <channel lang="en" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
-    <channel lang="en" site_id="331" xmltv_id="ID - Al Jazeera English">ID - Al Jazeera English</channel>
-    <channel lang="en" site_id="93" xmltv_id="ID - Al Quran Al Kareem">ID - Al Quran Al Kareem</channel>
-    <channel lang="en" site_id="157" xmltv_id="ID - Animax">ID - Animax</channel>
-    <channel lang="en" site_id="115" xmltv_id="ID - ANTV">ID - ANTV</channel>
-    <channel lang="en" site_id="351" xmltv_id="ID - Arirang">ID - Arirang</channel>
-    <channel lang="en" site_id="154" xmltv_id="ID - AXN">ID - AXN</channel>
-    <channel lang="en" site_id="40" xmltv_id="ID - BabyTV">ID - BabyTV</channel>
-    <channel lang="en" site_id="200" xmltv_id="ID - BBC Earth">ID - BBC Earth</channel>
-    <channel lang="en" site_id="332" xmltv_id="ID - BBC World News">ID - BBC World News</channel>
-    <channel lang="en" site_id="103" xmltv_id="ID - Berita Satu">ID - Berita Satu</channel>
-    <channel lang="en" site_id="338" xmltv_id="ID - Bloomberg">ID - Bloomberg</channel>
-    <channel lang="en" site_id="41" xmltv_id="ID - CBeebies">ID - CBeebies</channel>
-    <channel lang="en" site_id="22" xmltv_id="ID - CCM">ID - CCM</channel>
-    <channel lang="en" site_id="96" xmltv_id="ID - Celebrities TV">ID - Celebrities TV</channel>
-    <channel lang="en" site_id="20" xmltv_id="ID - Celestial Movies">ID - Celestial Movies</channel>
-    <channel lang="en" site_id="353" xmltv_id="ID - CGTN">ID - CGTN</channel>
-    <channel lang="en" site_id="205" xmltv_id="ID - CGTN Documentary">ID - CGTN Documentary</channel>
-    <channel lang="en" site_id="330" xmltv_id="ID - Channel News Asia">ID - Channel News Asia</channel>
-    <channel lang="en" site_id="7" xmltv_id="ID - CINEMACHI">ID - CINEMACHI</channel>
-    <channel lang="en" site_id="8" xmltv_id="ID - CINEMACHI ACTION">ID - CINEMACHI ACTION</channel>
-    <channel lang="en" site_id="9" xmltv_id="ID - CINEMACHI KIDS">ID - CINEMACHI KIDS</channel>
-    <channel lang="en" site_id="10" xmltv_id="ID - CINEMACHI MAX">ID - CINEMACHI MAX</channel>
-    <channel lang="en" site_id="6" xmltv_id="ID - CINEMACHI XTRA">ID - CINEMACHI XTRA</channel>
-    <channel lang="en" site_id="337" xmltv_id="ID - CNBC">ID - CNBC</channel>
-    <channel lang="en" site_id="207" xmltv_id="ID - Crime Investigation">ID - Crime Investigation</channel>
-    <channel lang="en" site_id="47" xmltv_id="ID - Dreamworks">ID - Dreamworks</channel>
-    <channel lang="en" site_id="357" xmltv_id="ID - DW English">ID - DW English</channel>
-    <channel lang="en" site_id="86" xmltv_id="ID - Entertainment">ID - Entertainment</channel>
-    <channel lang="en" site_id="304" xmltv_id="ID - Fight Sports">ID - Fight Sports</channel>
-    <channel lang="en" site_id="150" xmltv_id="ID - FMN">ID - FMN</channel>
-    <channel lang="en" site_id="335" xmltv_id="ID - FOX News">ID - FOX News</channel>
-    <channel lang="en" site_id="352" xmltv_id="ID - France 24 English">ID - France 24 English</channel>
-    <channel lang="en" site_id="13" xmltv_id="ID - Galaxy">ID - Galaxy</channel>
-    <channel lang="en" site_id="12" xmltv_id="ID - Galaxy Premium">ID - Galaxy Premium</channel>
-    <channel lang="en" site_id="201" xmltv_id="ID - Global Trekker">ID - Global Trekker</channel>
-    <channel lang="en" site_id="81" xmltv_id="ID - GTV">ID - GTV</channel>
-    <channel lang="en" site_id="206" xmltv_id="ID - History">ID - History</channel>
-    <channel lang="en" site_id="160" xmltv_id="ID - HITS">ID - HITS</channel>
-    <channel lang="en" site_id="11" xmltv_id="ID - HITS MOVIES">ID - HITS MOVIES</channel>
-    <channel lang="en" site_id="100" xmltv_id="ID - IDX">ID - IDX</channel>
-    <channel lang="en" site_id="14" xmltv_id="ID - IMC">ID - IMC</channel>
-    <channel lang="en" site_id="83" xmltv_id="ID - iNews">ID - iNews</channel>
-    <channel lang="en" site_id="113" xmltv_id="ID - JAKTV">ID - JAKTV</channel>
-    <channel lang="en" site_id="46" xmltv_id="ID - Kids TV">ID - Kids TV</channel>
-    <channel lang="en" site_id="161" xmltv_id="ID - KIX">ID - KIX</channel>
-    <channel lang="en" site_id="106" xmltv_id="ID - Kompas TV">ID - Kompas TV</channel>
-    <channel lang="en" site_id="91" xmltv_id="ID - LIFE">ID - LIFE</channel>
-    <channel lang="en" site_id="167" xmltv_id="ID - Lifetime">ID - Lifetime</channel>
-    <channel lang="en" site_id="107" xmltv_id="ID - Metro TV">ID - Metro TV</channel>
-    <channel lang="en" site_id="82" xmltv_id="ID - MNCTV">ID - MNCTV</channel>
-    <channel lang="en" site_id="149" xmltv_id="ID - MTV 90's">ID - MTV 90's</channel>
-    <channel lang="en" site_id="148" xmltv_id="ID - MTV LIVE">ID - MTV LIVE</channel>
-    <channel lang="en" site_id="111" xmltv_id="ID - Music TV">ID - Music TV</channel>
-    <channel lang="en" site_id="92" xmltv_id="ID - Muslim TV">ID - Muslim TV</channel>
-    <channel lang="en" site_id="16" xmltv_id="ID - My Cinema">ID - My Cinema</channel>
-    <channel lang="en" site_id="17" xmltv_id="ID - My Cinema Asia">ID - My Cinema Asia</channel>
-    <channel lang="en" site_id="15" xmltv_id="ID - My Family">ID - My Family</channel>
-    <channel lang="en" site_id="50" xmltv_id="ID - My Kidz">ID - My Kidz</channel>
-    <channel lang="en" site_id="202" xmltv_id="ID - National Geographic Channel">ID - National Geographic Channel</channel>
-    <channel lang="en" site_id="204" xmltv_id="ID - National Geographic Wild">ID - National Geographic Wild</channel>
-    <channel lang="en" site_id="116" xmltv_id="ID - NET TV">ID - NET TV</channel>
-    <channel lang="en" site_id="355" xmltv_id="ID - NHK World">ID - NHK World</channel>
-    <channel lang="en" site_id="354" xmltv_id="ID - NHK World Premium">ID - NHK World Premium</channel>
-    <channel lang="en" site_id="49" xmltv_id="ID - Nickelodeon">ID - Nickelodeon</channel>
-    <channel lang="en" site_id="37" xmltv_id="ID - Nickelodeon Jr">ID - Nickelodeon Jr</channel>
-    <channel lang="en" site_id="95" xmltv_id="ID - OK TV">ID - OK TV</channel>
-    <channel lang="en" site_id="90" xmltv_id="ID - Okezone TV">ID - Okezone TV</channel>
-    <channel lang="en" site_id="164" xmltv_id="ID - ONE">ID - ONE</channel>
-    <channel lang="en" site_id="163" xmltv_id="ID - PARAMOUNT">ID - PARAMOUNT</channel>
-    <channel lang="en" site_id="80" xmltv_id="ID - RCTI">ID - RCTI</channel>
-    <channel lang="en" site_id="248" xmltv_id="ID - Rock Action">ID - Rock Action</channel>
-    <channel lang="en" site_id="240" xmltv_id="ID - Rock Entertainment">ID - Rock Entertainment</channel>
-    <channel lang="en" site_id="336" xmltv_id="ID - SEA TODAY">ID - SEA TODAY</channel>
-    <channel lang="en" site_id="84" xmltv_id="ID - Sindo News TV">ID - Sindo News TV</channel>
-    <channel lang="en" site_id="101" xmltv_id="ID - Soccer Channel">ID - Soccer Channel</channel>
-    <channel lang="en" site_id="102" xmltv_id="ID - Sportstars">ID - Sportstars</channel>
-    <channel lang="en" site_id="98" xmltv_id="ID - Sportstars 2">ID - Sportstars 2</channel>
-    <channel lang="en" site_id="99" xmltv_id="ID - Sportstars 3">ID - Sportstars 3</channel>
-    <channel lang="en" site_id="88" xmltv_id="ID - Sportstars 4">ID - Sportstars 4</channel>
-    <channel lang="en" site_id="307" xmltv_id="ID - SPOTV">ID - SPOTV</channel>
-    <channel lang="en" site_id="308" xmltv_id="ID - SPOTV 2">ID - SPOTV 2</channel>
-    <channel lang="en" site_id="105" xmltv_id="ID - Tawaf TV">ID - Tawaf TV</channel>
-    <channel lang="en" site_id="19" xmltv_id="ID - Thrill">ID - Thrill</channel>
-    <channel lang="en" site_id="110" xmltv_id="ID - Trans 7">ID - Trans 7</channel>
-    <channel lang="en" site_id="87" xmltv_id="ID - Trans TV">ID - Trans TV</channel>
-    <channel lang="en" site_id="158" xmltv_id="ID - tvN">ID - tvN</channel>
-    <channel lang="en" site_id="25" xmltv_id="ID - tvN Movies">ID - tvN Movies</channel>
-    <channel lang="en" site_id="97" xmltv_id="ID - tvOne">ID - tvOne</channel>
-    <channel lang="en" site_id="118" xmltv_id="ID - TVRI">ID - TVRI</channel>
-    <channel lang="en" site_id="94" xmltv_id="ID - Vision Prime">ID - Vision Prime</channel>
-    <channel lang="en" site_id="23" xmltv_id="ID - Zee Bioskop">ID - Zee Bioskop</channel>
-    <channel lang="en" site_id="39" xmltv_id="ID - Zoomoo">ID - Zoomoo</channel>
-  </channels>
-</site>
+<channels>
+  <channel site="mncvision.id" lang="id" xmltv_id="Okezone TV" site_id="90">Okezone TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Celebrities TV" site_id="96">Celebrities TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="ABC Australia" site_id="350">ABC Australia</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Al Jazeera English" site_id="331">Al Jazeera English</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Animax" site_id="157">Animax</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="ANTV" site_id="115">ANTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Arirang" site_id="351">Arirang</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="AXN" site_id="154">AXN</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="BBC Earth" site_id="200">BBC Earth</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="BBC World News" site_id="332">BBC World News</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Bloomberg" site_id="338">Bloomberg</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="BTV" site_id="103">BTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cbeebies" site_id="41">CBeebies</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Celestial Classic Movie" site_id="22">CCM</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Celestial Movies" site_id="20">Celestial Movies</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="CGTN" site_id="353">CGTN</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="CGTN Documentary" site_id="205">CGTN Documentary</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cinemachi" site_id="7">CINEMACHI</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cinemachi Action" site_id="8">CINEMACHI ACTION</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cinemachi Kids" site_id="9">CINEMACHI KIDS</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cinemachi Max" site_id="10">CINEMACHI MAX</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Cinemachi Xtra" site_id="6">CINEMACHI XTRA</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Channel News Asia" site_id="330">Channel News Asia</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="CNBC" site_id="337">CNBC</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Crime Investigation" site_id="207">Crime Investigation</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Dreamworks" site_id="47">Dreamworks</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="DW English" site_id="357">DW English</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Entertainment" site_id="86">Entertainment</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Fight Sports" site_id="304">Fight Sports</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="FMN" site_id="150">FMN</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Fox News Channel" site_id="335">FOX News</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="France 24" site_id="352">France 24 English</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Galaxy" site_id="13">Galaxy</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Galaxy Premium" site_id="12">Galaxy Premium</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Global Trekker" site_id="201">Global Trekker</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="GTV" site_id="81">GTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="History" site_id="206">History</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="HITS" site_id="160">HITS</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Hits Movies" site_id="11">HITS MOVIES</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="IDX Channel" site_id="100">IDX</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="IMC" site_id="14">IMC</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="iNews" site_id="83">iNews</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Jak TV" site_id="113">JAKTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Kids TV" site_id="46">Kids TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="KIX" site_id="161">KIX</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Kompas TV" site_id="106">Kompas TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Life" site_id="91">LIFE</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Lifetime" site_id="167">Lifetime</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Love Nature" site_id="204">Love Nature</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Metro TV" site_id="107">Metro TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="MNCTV" site_id="82">MNCTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="MTV 90s" site_id="149">MTV 90&apos;s</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="MTV Live" site_id="148">MTV LIVE</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Music TV" site_id="111">Music TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Muslim TV" site_id="92">Muslim TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="My Cinema" site_id="16">My Cinema</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="My Cinema Asia" site_id="17">My Cinema Asia</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="My Family" site_id="15">My Family</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="My Kidz" site_id="50">My Kidz</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="NET" site_id="116">NET TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="NHK World Japan" site_id="355">NHK World</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="NHK World Premium" site_id="354">NHK World Premium</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Nickelodeon" site_id="49">Nickelodeon</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Nick Jr" site_id="37">Nickelodeon Jr</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="OKTV" site_id="95">OK TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="ONE" site_id="164">ONE</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Outdoor Channel" site_id="202">Outdoor Channel</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Paramount Network" site_id="163">PARAMOUNT</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Al Quran Al Kareem" site_id="93">Al Quran Al Kareem</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="RCTI" site_id="80">RCTI</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Rock Entertainment" site_id="240">Rock Entertainment</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Rock Action" site_id="248">Rock Action</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SEA Today" site_id="336">SEA TODAY</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sindo News TV" site_id="84">Sindo News TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Soccer Channel" site_id="101">Soccer Channel</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars 2" site_id="98">Sportstars 2</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars 3" site_id="99">Sportstars 3</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars 4" site_id="88">Sportstars 4</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Sportstars" site_id="102">Sportstars</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTV 2" site_id="308">SPOTV 2</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="SPOTV" site_id="307">SPOTV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Tawaf TV" site_id="105">Tawaf TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Thrill" site_id="19">Thrill</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Trans 7" site_id="110">Trans 7</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Trans TV" site_id="87">Trans TV</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="tvN" site_id="158">tvN</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="tvN Movies" site_id="25">tvN Movies</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="TVOne" site_id="97">tvOne</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="TVRI" site_id="118">TVRI</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Vision Prime" site_id="94">Vision Prime</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Zee Bioskop" site_id="23">Zee Bioskop</channel>
+  <channel site="mncvision.id" lang="id" xmltv_id="Zoomoo" site_id="39">Zoomoo</channel>
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="AXNHD.id" site_id="438">AXN HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="BBCEarthAsiaHD.uk" site_id="461">BBC Earth HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="CinemachiActionHD.uk" site_id="402">CINEMACHI ACTION HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="CinemachiHD.uk" site_id="401">CINEMACHI HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="CinemachiKidsHD.uk" site_id="403">CINEMACHI KIDS HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="CinemachiMaxHD.uk" site_id="404">CINEMACHI MAX HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="CinemachiXtraHD.uk" site_id="405">CINEMACHI XTRA HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="EuronewsEnglish.fr" site_id="333">EURONEWS</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="GTV.id" site_id="431">GTV HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="HITSMoviesHD.sg" site_id="409">HITS MOVIES HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="IDXChannelHD.id" site_id="436">IDX HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="Indosiar.id" site_id="78">Indosiar</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="iNewsHD.id" site_id="433">iNews HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="LoveNatureHD.ca" site_id="463">Love Nature HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="MNCTVHD.id" site_id="432">MNCTV HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="NickJrAsiaHD.sg" site_id="472">Nick Jr. HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="ONEHD.sg" site_id="445">ONE HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="OutdoorChannelHD.us" site_id="460">Outdoor channel HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="ParamountNetworkIndonesiaHD.id" site_id="441">PARAMOUNT HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="RCTIHD.id" site_id="430">RCTI HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SCTV.id" site_id="89">SCTV</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SindoNewsTVHD.id" site_id="434">Sindo News TV HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SoccerChannelHD.id" site_id="420">Soccer Channel HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="Sportstars2HD.id" site_id="422">Sportstars 2 HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="Sportstars4HD.id" site_id="424">Sportstars 4 HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SportstarsHD.id" site_id="421">Sportstars HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SPOTVHD.kr" site_id="427">SPOTV HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="SPOTV2HD.kr" site_id="428">SPOTV 2 HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="tvNAsiaHD.hk" site_id="446">tvN HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="tvNMoviesAsiaHD.hk" site_id="415">tvN Movies HD</channel -->
+  <!-- channel site="mncvision.id" lang="id" xmltv_id="VisionPrimeHD.id" site_id="1">Vision Prime HD</channel -->
+</channels>
