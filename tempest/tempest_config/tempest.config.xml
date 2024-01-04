@@ -6,7 +6,7 @@
   <logger>off</logger>
   <retry>3</retry>
   <time-out>30</time-out>
-  <timespan>3</timespan>
+  <timespan>2</timespan>
   <proxy/>
   <index-only>off</index-only>
   <fusion>off</fusion>
@@ -18,7 +18,12 @@
   <inverter-filename/>
   <inverter-path/>
   <logname/>
-  <channel site="[ENC]canalplus.com[pl]_0" site_id="20588||CANAL..SPORT" xmltv_id="PL - CANAL+ SPORT">PL - CANAL+ SPORT</channel>
+  <channel site="[ENC]alkassdigital.net_0" site_id="one" xmltv_id="QA - Alkass One">QA - Alkass One</channel>
+  <channel site="[ENC]alkassdigital.net_0" site_id="two" xmltv_id="QA - Alkass Two">QA - Alkass Two</channel>
+  <channel site="[ENC]alkassdigital.net_0" site_id="three" xmltv_id="QA - Alkass Three">QA - Alkass Three</channel>
+  <channel site="[ENC]alkassdigital.net_0" site_id="four" xmltv_id="QA - Alkass Four">QA - Alkass Four</channel>
+  <channel site="[ENC]alkassdigital.net_0" site_id="five" xmltv_id="QA - Alkass Five">QA - Alkass Five</channel>
+  <!-- channel site="[ENC]canalplus.com[pl]_0" site_id="20588||CANAL..SPORT" xmltv_id="PL - CANAL+ SPORT">PL - CANAL+ SPORT</channel>
   <channel site="[ENC]canalplus.com[pl]_0" site_id="20928||CANAL..SPORT.2" xmltv_id="PL - CANAL+ SPORT 2">PL - CANAL+ SPORT 2</channel>
   <channel site="[ENC]canalplus.com[pl]_0" site_id="21581||CANAL..SPORT.3" xmltv_id="PL - CANAL+ SPORT 3">PL - CANAL+ SPORT 3</channel>
   <channel site="[ENC]canalplus.com[pl]_0" site_id="21583||CANAL..SPORT.4" xmltv_id="PL - CANAL+ SPORT 4">PL - CANAL+ SPORT 4</channel>
@@ -29,7 +34,7 @@
   <channel site="[ENC]canalplus.com[pl]_0" site_id="21282||ELEVEN.SPORTS.4.HD" xmltv_id="PL - ELEVEN SPORTS 4">PL - ELEVEN SPORTS 4</channel>
   <channel site="[ENC]canalplus.com[pl]_0" site_id="21461||POLSAT.SPORT.PREMIUM.1" xmltv_id="PL - POLSAT SPORT PREMIUM 1">PL - POLSAT SPORT PREMIUM 1</channel>
   <channel site="[ENC]canalplus.com[pl]_0" site_id="21462||POLSAT.SPORT.PREMIUM.2" xmltv_id="PL - POLSAT SPORT PREMIUM 2">PL - POLSAT SPORT PREMIUM 2</channel>
-  <!-- channel site="[ENC]mncvision.id_0" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
+  <channel site="[ENC]mncvision.id_0" site_id="350" xmltv_id="ID - ABC Australia">ID - ABC Australia</channel>
   <channel site="[ENC]mncvision.id_0" site_id="331" xmltv_id="ID - Al Jazeera English">ID - Al Jazeera English</channel>
   <channel site="[ENC]mncvision.id_0" site_id="93" xmltv_id="ID - Al Quran Al Kareem">ID - Al Quran Al Kareem</channel>
   <channel site="[ENC]mncvision.id_0" site_id="157" xmltv_id="ID - Animax">ID - Animax</channel>
