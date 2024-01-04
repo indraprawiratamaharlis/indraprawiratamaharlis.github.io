@@ -12,7 +12,7 @@ on:
     branches: 'main'
     types: [closed]
   schedule:
-  - cron: '0 23 * * *'
+  - cron: '0 17 * * *'
 
 jobs:
   tempest:
@@ -40,9 +40,9 @@ jobs:
         id: tempest
         run: |
           php ./tempest.php engine=Generate tempconfig=dummy.config.xml
-          php ./tempest.php engine=Generate tempconfig=tempest.config.xml
+          # php ./tempest.php engine=Generate tempconfig=tempest.config.xml
           cp -f ./tempest_config/epg/dummy.xml ./guide/expired.xml
-          cp -f ./tempest_config/epg/guide.xml ./guide/guide.xml
+          # cp -f ./tempest_config/epg/guide.xml ./guide/guide.xml
         shell: bash
 
       - name: Outcome
@@ -59,6 +59,6 @@ jobs:
           git config --global user.name ${{ secrets.NAME }}
           git pull
           git add ./guide/expired.xml
-          git add ./guide/guide.xml
+          # git add ./guide/guide.xml
           git commit -m "tempest - ${{ steps.tempest.outcome }}"
           git push
