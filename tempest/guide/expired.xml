@@ -3,26 +3,6 @@
   <channel id="XX - Expired">
     <display-name lang="en">XX - Expired</display-name>
   </channel>
-  <programme start="20240407000000 +0000" stop="20240407030000 +0000" channel="XX - Expired">
-    <title lang="en">Account Expired</title>
-    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
-  </programme>
-  <programme start="20240407030000 +0000" stop="20240407060000 +0000" channel="XX - Expired">
-    <title lang="en">Account Expired</title>
-    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
-  </programme>
-  <programme start="20240407060000 +0000" stop="20240407090000 +0000" channel="XX - Expired">
-    <title lang="en">Account Expired</title>
-    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
-  </programme>
-  <programme start="20240407090000 +0000" stop="20240407180000 +0000" channel="XX - Expired">
-    <title lang="en">Account Expired</title>
-    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
-  </programme>
-  <programme start="20240407180000 +0000" stop="20240408000000 +0000" channel="XX - Expired">
-    <title lang="en">Account Expired</title>
-    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
-  </programme>
   <programme start="20240408000000 +0000" stop="20240408030000 +0000" channel="XX - Expired">
     <title lang="en">Account Expired</title>
     <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
@@ -80,6 +60,26 @@
     <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
   </programme>
   <programme start="20240410180000 +0000" stop="20240411000000 +0000" channel="XX - Expired">
+    <title lang="en">Account Expired</title>
+    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
+  </programme>
+  <programme start="20240411000000 +0000" stop="20240411030000 +0000" channel="XX - Expired">
+    <title lang="en">Account Expired</title>
+    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
+  </programme>
+  <programme start="20240411030000 +0000" stop="20240411060000 +0000" channel="XX - Expired">
+    <title lang="en">Account Expired</title>
+    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
+  </programme>
+  <programme start="20240411060000 +0000" stop="20240411090000 +0000" channel="XX - Expired">
+    <title lang="en">Account Expired</title>
+    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
+  </programme>
+  <programme start="20240411090000 +0000" stop="20240411180000 +0000" channel="XX - Expired">
+    <title lang="en">Account Expired</title>
+    <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
+  </programme>
+  <programme start="20240411180000 +0000" stop="20240412000000 +0000" channel="XX - Expired">
     <title lang="en">Account Expired</title>
     <desc lang="en">Account Expired! Contact Admin to Reactivate.</desc>
   </programme>
